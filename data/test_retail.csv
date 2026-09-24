@@ -1,0 +1,1201 @@
+Date,Product_ID,Product_Name,Category,Sales_Units,Stock_On_Hand,Unit_Price,Lead_Time_Days,Promotion_Active
+2025-01-01,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,49,69,149.99,10,0
+2025-01-02,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,44,32,149.99,10,0
+2025-01-03,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,51,0,149.99,10,0
+2025-01-04,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,78,0,149.99,10,0
+2025-01-05,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,65,0,149.99,10,0
+2025-01-06,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,44,0,149.99,10,0
+2025-01-07,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,59,0,149.99,10,0
+2025-01-08,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,53,0,149.99,10,0
+2025-01-09,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,43,0,149.99,10,0
+2025-01-10,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,51,0,149.99,10,0
+2025-01-11,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,64,0,149.99,10,0
+2025-01-12,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,65,0,149.99,10,0
+2025-01-13,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,49,0,149.99,10,0
+2025-01-14,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,32,0,149.99,10,0
+2025-01-15,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,51,555,131.99,10,1
+2025-01-16,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,60,504,131.99,10,1
+2025-01-17,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,57,456,131.99,10,1
+2025-01-18,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,97,374,131.99,10,1
+2025-01-19,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,63,321,149.99,10,0
+2025-01-20,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,37,290,149.99,10,0
+2025-01-21,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,60,239,149.99,10,0
+2025-01-22,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,47,200,149.99,10,0
+2025-01-23,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,50,158,149.99,10,0
+2025-01-24,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,38,126,149.99,10,0
+2025-01-25,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,67,70,149.99,10,0
+2025-01-26,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,73,8,149.99,10,0
+2025-01-27,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,41,0,149.99,10,0
+2025-01-28,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,53,0,149.99,10,0
+2025-01-29,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,45,560,149.99,10,0
+2025-01-30,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,48,520,149.99,10,0
+2025-01-31,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,46,481,149.99,10,0
+2025-02-01,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,88,407,149.99,10,0
+2025-02-02,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,73,345,149.99,10,0
+2025-02-03,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,42,310,149.99,10,0
+2025-02-04,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,58,261,149.99,10,0
+2025-02-05,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,41,227,149.99,10,0
+2025-02-06,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,53,182,149.99,10,0
+2025-02-07,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,36,152,149.99,10,0
+2025-02-08,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,64,98,149.99,10,0
+2025-02-09,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,77,33,149.99,10,0
+2025-02-10,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,58,0,149.99,10,0
+2025-02-11,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,54,0,149.99,10,0
+2025-02-12,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,51,555,149.99,10,0
+2025-02-13,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,50,513,149.99,10,0
+2025-02-14,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,41,479,149.99,10,0
+2025-02-15,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,71,419,149.99,10,0
+2025-02-16,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,73,357,149.99,10,0
+2025-02-17,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,62,305,149.99,10,0
+2025-02-18,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,56,258,149.99,10,0
+2025-02-19,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,39,225,149.99,10,0
+2025-02-20,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,56,178,149.99,10,0
+2025-02-21,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,51,135,149.99,10,0
+2025-02-22,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,73,73,149.99,10,0
+2025-02-23,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,83,3,149.99,10,0
+2025-02-24,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,62,0,149.99,10,0
+2025-02-25,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,62,0,149.99,10,0
+2025-02-26,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,48,558,149.99,10,0
+2025-02-27,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,52,514,149.99,10,0
+2025-02-28,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,57,466,149.99,10,0
+2025-03-01,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,87,393,149.99,10,0
+2025-03-02,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,76,329,149.99,10,0
+2025-03-03,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,53,284,149.99,10,0
+2025-03-04,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,65,229,131.99,10,1
+2025-03-05,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,65,174,131.99,10,1
+2025-03-06,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,81,106,131.99,10,1
+2025-03-07,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,86,33,131.99,10,1
+2025-03-08,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,80,0,149.99,10,0
+2025-03-09,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,89,0,149.99,10,0
+2025-03-10,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,59,0,149.99,10,0
+2025-03-11,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,51,0,149.99,10,0
+2025-03-12,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,59,548,149.99,10,0
+2025-03-13,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,68,491,149.99,10,0
+2025-03-14,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,56,444,149.99,10,0
+2025-03-15,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,94,365,149.99,10,0
+2025-03-16,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,61,314,149.99,10,0
+2025-03-17,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,63,261,149.99,10,0
+2025-03-18,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,57,213,149.99,10,0
+2025-03-19,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,54,168,149.99,10,0
+2025-03-20,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,57,120,149.99,10,0
+2025-03-21,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,41,86,149.99,10,0
+2025-03-22,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,81,18,149.99,10,0
+2025-03-23,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,85,0,149.99,10,0
+2025-03-24,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,69,0,149.99,10,0
+2025-03-25,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,53,0,149.99,10,0
+2025-03-26,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,51,555,149.99,10,0
+2025-03-27,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,53,510,149.99,10,0
+2025-03-28,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,64,456,149.99,10,0
+2025-03-29,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,86,383,149.99,10,0
+2025-03-30,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,79,316,149.99,10,0
+2025-03-31,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,61,265,149.99,10,0
+2025-04-01,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,58,216,149.99,10,0
+2025-04-02,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,65,161,149.99,10,0
+2025-04-03,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,52,117,149.99,10,0
+2025-04-04,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,55,71,149.99,10,0
+2025-04-05,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,80,3,149.99,10,0
+2025-04-06,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,72,0,149.99,10,0
+2025-04-07,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,60,0,149.99,10,0
+2025-04-08,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,60,0,149.99,10,0
+2025-04-09,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,58,549,149.99,10,0
+2025-04-10,SKU-ELEC-101,Wireless Noise-Canceling Headphones,Electronics,56,502,149.99,10,0
+2025-01-01,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,20,25,299.99,14,0
+2025-01-02,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,26,3,299.99,14,0
+2025-01-03,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,26,0,299.99,14,0
+2025-01-04,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,31,0,299.99,14,0
+2025-01-05,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,35,0,299.99,14,0
+2025-01-06,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,31,0,299.99,14,0
+2025-01-07,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,40,0,299.99,14,0
+2025-01-08,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,30,0,299.99,14,0
+2025-01-09,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,30,0,299.99,14,0
+2025-01-10,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,29,0,299.99,14,0
+2025-01-11,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,25,0,299.99,14,0
+2025-01-12,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,36,0,299.99,14,0
+2025-01-13,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,30,0,299.99,14,0
+2025-01-14,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,44,0,299.99,14,0
+2025-01-15,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,39,0,263.99,14,1
+2025-01-16,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,42,0,263.99,14,1
+2025-01-17,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,40,0,263.99,14,1
+2025-01-18,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,43,0,263.99,14,1
+2025-01-19,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,44,441,299.99,14,0
+2025-01-20,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,35,412,299.99,14,0
+2025-01-21,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,35,383,299.99,14,0
+2025-01-22,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,25,362,299.99,14,0
+2025-01-23,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,39,329,299.99,14,0
+2025-01-24,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,22,311,299.99,14,0
+2025-01-25,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,42,276,299.99,14,0
+2025-01-26,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,52,232,299.99,14,0
+2025-01-27,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,25,211,299.99,14,0
+2025-01-28,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,28,188,299.99,14,0
+2025-01-29,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,32,161,299.99,14,0
+2025-01-30,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,28,138,299.99,14,0
+2025-01-31,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,22,120,299.99,14,0
+2025-02-01,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,40,86,299.99,14,0
+2025-02-02,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,33,58,299.99,14,0
+2025-02-03,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,34,30,299.99,14,0
+2025-02-04,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,26,8,299.99,14,0
+2025-02-05,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,41,0,299.99,14,0
+2025-02-06,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,27,456,299.99,14,0
+2025-02-07,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,30,431,299.99,14,0
+2025-02-08,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,45,393,299.99,14,0
+2025-02-09,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,33,365,299.99,14,0
+2025-02-10,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,34,337,299.99,14,0
+2025-02-11,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,40,303,299.99,14,0
+2025-02-12,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,23,284,299.99,14,0
+2025-02-13,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,34,256,299.99,14,0
+2025-02-14,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,34,228,299.99,14,0
+2025-02-15,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,45,190,299.99,14,0
+2025-02-16,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,33,162,299.99,14,0
+2025-02-17,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,25,141,299.99,14,0
+2025-02-18,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,36,111,299.99,14,0
+2025-02-19,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,35,82,299.99,14,0
+2025-02-20,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,35,53,299.99,14,0
+2025-02-21,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,35,24,299.99,14,0
+2025-02-22,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,37,0,299.99,14,0
+2025-02-23,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,43,0,299.99,14,0
+2025-02-24,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,35,449,299.99,14,0
+2025-02-25,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,29,425,299.99,14,0
+2025-02-26,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,45,387,299.99,14,0
+2025-02-27,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,36,357,299.99,14,0
+2025-02-28,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,26,335,299.99,14,0
+2025-03-01,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,46,296,299.99,14,0
+2025-03-02,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,36,266,299.99,14,0
+2025-03-03,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,39,233,299.99,14,0
+2025-03-04,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,53,188,263.99,14,1
+2025-03-05,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,41,154,263.99,14,1
+2025-03-06,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,52,110,263.99,14,1
+2025-03-07,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,48,70,263.99,14,1
+2025-03-08,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,48,30,299.99,14,0
+2025-03-09,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,54,0,299.99,14,0
+2025-03-10,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,33,0,299.99,14,0
+2025-03-11,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,30,0,299.99,14,0
+2025-03-12,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,29,0,299.99,14,0
+2025-03-13,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,30,0,299.99,14,0
+2025-03-14,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,34,450,299.99,14,0
+2025-03-15,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,45,412,299.99,14,0
+2025-03-16,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,45,374,299.99,14,0
+2025-03-17,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,40,340,299.99,14,0
+2025-03-18,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,35,311,299.99,14,0
+2025-03-19,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,43,275,299.99,14,0
+2025-03-20,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,33,247,299.99,14,0
+2025-03-21,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,51,204,299.99,14,0
+2025-03-22,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,47,165,299.99,14,0
+2025-03-23,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,38,133,299.99,14,0
+2025-03-24,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,28,110,299.99,14,0
+2025-03-25,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,38,78,299.99,14,0
+2025-03-26,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,34,50,299.99,14,0
+2025-03-27,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,39,17,299.99,14,0
+2025-03-28,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,38,0,299.99,14,0
+2025-03-29,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,43,0,299.99,14,0
+2025-03-30,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,39,0,299.99,14,0
+2025-03-31,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,26,0,299.99,14,0
+2025-04-01,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,32,451,299.99,14,0
+2025-04-02,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,40,417,299.99,14,0
+2025-04-03,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,36,387,299.99,14,0
+2025-04-04,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,28,364,299.99,14,0
+2025-04-05,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,45,326,299.99,14,0
+2025-04-06,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,46,287,299.99,14,0
+2025-04-07,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,30,262,299.99,14,0
+2025-04-08,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,36,232,299.99,14,0
+2025-04-09,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,36,202,299.99,14,0
+2025-04-10,SKU-ELEC-102,4K Ultra-HD Smart Monitor 27-inch,Electronics,28,179,299.99,14,0
+2025-01-01,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,41,176,89.99,7,0
+2025-01-02,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,42,141,89.99,7,0
+2025-01-03,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,46,102,89.99,7,0
+2025-01-04,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,57,54,89.99,7,0
+2025-01-05,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,41,20,89.99,7,0
+2025-01-06,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,32,0,89.99,7,0
+2025-01-07,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,42,0,89.99,7,0
+2025-01-08,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,43,0,89.99,7,0
+2025-01-09,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,43,0,89.99,7,0
+2025-01-10,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,66,0,89.99,7,0
+2025-01-11,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,55,0,89.99,7,0
+2025-01-12,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,59,347,89.99,7,0
+2025-01-13,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,46,308,89.99,7,0
+2025-01-14,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,44,271,89.99,7,0
+2025-01-15,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,52,227,79.19,7,1
+2025-01-16,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,59,177,79.19,7,1
+2025-01-17,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,49,136,79.19,7,1
+2025-01-18,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,69,78,79.19,7,1
+2025-01-19,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,49,37,89.99,7,0
+2025-01-20,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,41,3,89.99,7,0
+2025-01-21,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,57,0,89.99,7,0
+2025-01-22,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,28,0,89.99,7,0
+2025-01-23,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,46,358,89.99,7,0
+2025-01-24,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,30,333,89.99,7,0
+2025-01-25,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,50,291,89.99,7,0
+2025-01-26,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,61,240,89.99,7,0
+2025-01-27,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,42,205,89.99,7,0
+2025-01-28,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,34,177,89.99,7,0
+2025-01-29,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,37,146,89.99,7,0
+2025-01-30,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,46,107,89.99,7,0
+2025-01-31,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,37,76,89.99,7,0
+2025-02-01,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,56,29,89.99,7,0
+2025-02-02,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,55,0,89.99,7,0
+2025-02-03,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,38,365,89.99,7,0
+2025-02-04,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,57,317,89.99,7,0
+2025-02-05,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,47,278,89.99,7,0
+2025-02-06,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,28,255,89.99,7,0
+2025-02-07,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,44,218,89.99,7,0
+2025-02-08,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,51,175,89.99,7,0
+2025-02-09,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,62,123,89.99,7,0
+2025-02-10,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,37,92,89.99,7,0
+2025-02-11,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,42,57,89.99,7,0
+2025-02-12,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,47,18,89.99,7,0
+2025-02-13,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,49,0,89.99,7,0
+2025-02-14,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,35,368,89.99,7,0
+2025-02-15,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,54,323,89.99,7,0
+2025-02-16,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,53,278,89.99,7,0
+2025-02-17,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,39,245,89.99,7,0
+2025-02-18,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,56,198,89.99,7,0
+2025-02-19,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,47,159,89.99,7,0
+2025-02-20,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,35,130,89.99,7,0
+2025-02-21,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,50,88,89.99,7,0
+2025-02-22,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,72,27,89.99,7,0
+2025-02-23,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,65,0,89.99,7,0
+2025-02-24,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,34,0,89.99,7,0
+2025-02-25,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,41,363,89.99,7,0
+2025-02-26,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,53,318,89.99,7,0
+2025-02-27,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,39,285,89.99,7,0
+2025-02-28,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,48,245,89.99,7,0
+2025-03-01,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,63,192,89.99,7,0
+2025-03-02,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,52,148,89.99,7,0
+2025-03-03,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,44,111,89.99,7,0
+2025-03-04,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,38,79,79.19,7,1
+2025-03-05,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,53,34,79.19,7,1
+2025-03-06,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,59,0,79.19,7,1
+2025-03-07,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,52,0,79.19,7,1
+2025-03-08,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,70,338,89.99,7,0
+2025-03-09,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,49,297,89.99,7,0
+2025-03-10,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,42,262,89.99,7,0
+2025-03-11,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,46,223,89.99,7,0
+2025-03-12,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,55,177,89.99,7,0
+2025-03-13,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,35,148,89.99,7,0
+2025-03-14,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,53,103,89.99,7,0
+2025-03-15,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,59,53,89.99,7,0
+2025-03-16,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,52,9,89.99,7,0
+2025-03-17,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,49,0,89.99,7,0
+2025-03-18,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,47,0,89.99,7,0
+2025-03-19,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,41,363,89.99,7,0
+2025-03-20,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,46,324,89.99,7,0
+2025-03-21,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,43,288,89.99,7,0
+2025-03-22,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,60,237,89.99,7,0
+2025-03-23,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,64,183,89.99,7,0
+2025-03-24,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,57,135,89.99,7,0
+2025-03-25,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,37,104,89.99,7,0
+2025-03-26,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,61,53,89.99,7,0
+2025-03-27,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,32,26,89.99,7,0
+2025-03-28,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,45,0,89.99,7,0
+2025-03-29,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,64,0,89.99,7,0
+2025-03-30,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,62,345,89.99,7,0
+2025-03-31,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,42,310,89.99,7,0
+2025-04-01,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,44,273,89.99,7,0
+2025-04-02,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,42,238,89.99,7,0
+2025-04-03,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,42,203,89.99,7,0
+2025-04-04,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,52,159,89.99,7,0
+2025-04-05,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,62,107,89.99,7,0
+2025-04-06,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,55,61,89.99,7,0
+2025-04-07,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,52,17,89.99,7,0
+2025-04-08,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,48,0,89.99,7,0
+2025-04-09,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,52,0,89.99,7,0
+2025-04-10,SKU-ELEC-103,Ergonomic Mechanical Keyboard,Electronics,50,355,89.99,7,0
+2025-01-01,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,18,50,189.5,12,0
+2025-01-02,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,19,34,189.5,12,0
+2025-01-03,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,26,12,189.5,12,0
+2025-01-04,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,39,0,189.5,12,0
+2025-01-05,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,36,0,189.5,12,0
+2025-01-06,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,23,0,189.5,12,0
+2025-01-07,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,29,0,189.5,12,0
+2025-01-08,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,19,0,189.5,12,0
+2025-01-09,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,25,0,189.5,12,0
+2025-01-10,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,22,0,189.5,12,0
+2025-01-11,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,35,0,189.5,12,0
+2025-01-12,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,42,0,189.5,12,0
+2025-01-13,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,27,0,189.5,12,0
+2025-01-14,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,27,0,189.5,12,0
+2025-01-15,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,37,0,166.76,12,1
+2025-01-16,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,31,0,166.76,12,1
+2025-01-17,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,34,306,166.76,12,1
+2025-01-18,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,48,266,166.76,12,1
+2025-01-19,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,38,234,189.5,12,0
+2025-01-20,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,22,216,189.5,12,0
+2025-01-21,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,24,196,189.5,12,0
+2025-01-22,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,26,174,189.5,12,0
+2025-01-23,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,19,158,189.5,12,0
+2025-01-24,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,34,130,189.5,12,0
+2025-01-25,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,32,103,189.5,12,0
+2025-01-26,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,31,77,189.5,12,0
+2025-01-27,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,29,53,189.5,12,0
+2025-01-28,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,27,31,189.5,12,0
+2025-01-29,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,27,9,189.5,12,0
+2025-01-30,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,27,0,189.5,12,0
+2025-01-31,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,23,0,189.5,12,0
+2025-02-01,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,33,0,189.5,12,0
+2025-02-02,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,38,302,189.5,12,0
+2025-02-03,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,20,285,189.5,12,0
+2025-02-04,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,29,261,189.5,12,0
+2025-02-05,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,23,242,189.5,12,0
+2025-02-06,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,20,225,189.5,12,0
+2025-02-07,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,22,207,189.5,12,0
+2025-02-08,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,40,173,189.5,12,0
+2025-02-09,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,35,144,189.5,12,0
+2025-02-10,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,20,127,189.5,12,0
+2025-02-11,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,25,106,189.5,12,0
+2025-02-12,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,25,85,189.5,12,0
+2025-02-13,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,21,68,189.5,12,0
+2025-02-14,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,22,50,189.5,12,0
+2025-02-15,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,40,16,189.5,12,0
+2025-02-16,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,31,0,189.5,12,0
+2025-02-17,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,17,0,189.5,12,0
+2025-02-18,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,21,317,189.5,12,0
+2025-02-19,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,23,298,189.5,12,0
+2025-02-20,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,26,276,189.5,12,0
+2025-02-21,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,32,249,189.5,12,0
+2025-02-22,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,43,213,189.5,12,0
+2025-02-23,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,38,181,189.5,12,0
+2025-02-24,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,24,161,189.5,12,0
+2025-02-25,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,19,145,189.5,12,0
+2025-02-26,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,24,125,189.5,12,0
+2025-02-27,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,23,106,189.5,12,0
+2025-02-28,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,26,84,189.5,12,0
+2025-03-01,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,35,55,189.5,12,0
+2025-03-02,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,42,20,189.5,12,0
+2025-03-03,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,32,0,189.5,12,0
+2025-03-04,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,32,0,166.76,12,1
+2025-03-05,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,35,0,166.76,12,1
+2025-03-06,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,36,304,166.76,12,1
+2025-03-07,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,31,278,166.76,12,1
+2025-03-08,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,40,244,189.5,12,0
+2025-03-09,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,39,211,189.5,12,0
+2025-03-10,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,25,190,189.5,12,0
+2025-03-11,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,21,173,189.5,12,0
+2025-03-12,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,25,152,189.5,12,0
+2025-03-13,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,27,130,189.5,12,0
+2025-03-14,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,32,103,189.5,12,0
+2025-03-15,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,44,66,189.5,12,0
+2025-03-16,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,50,24,189.5,12,0
+2025-03-17,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,21,7,189.5,12,0
+2025-03-18,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,29,0,189.5,12,0
+2025-03-19,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,25,0,189.5,12,0
+2025-03-20,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,35,0,189.5,12,0
+2025-03-21,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,20,0,189.5,12,0
+2025-03-22,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,35,305,189.5,12,0
+2025-03-23,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,36,275,189.5,12,0
+2025-03-24,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,14,264,189.5,12,0
+2025-03-25,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,22,246,189.5,12,0
+2025-03-26,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,21,229,189.5,12,0
+2025-03-27,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,25,208,189.5,12,0
+2025-03-28,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,26,186,189.5,12,0
+2025-03-29,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,48,146,189.5,12,0
+2025-03-30,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,44,109,189.5,12,0
+2025-03-31,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,21,92,189.5,12,0
+2025-04-01,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,20,75,189.5,12,0
+2025-04-02,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,27,53,189.5,12,0
+2025-04-03,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,18,38,189.5,12,0
+2025-04-04,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,33,10,189.5,12,0
+2025-04-05,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,45,0,189.5,12,0
+2025-04-06,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,36,0,189.5,12,0
+2025-04-07,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,16,321,189.5,12,0
+2025-04-08,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,31,295,189.5,12,0
+2025-04-09,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,24,275,189.5,12,0
+2025-04-10,SKU-APPL-201,All-Weather Technical Parka Jacket,Apparel,30,250,189.5,12,0
+2025-01-01,SKU-APPL-202,Performance Running Shoes Pro,Apparel,43,39,129.0,8,0
+2025-01-02,SKU-APPL-202,Performance Running Shoes Pro,Apparel,55,0,129.0,8,0
+2025-01-03,SKU-APPL-202,Performance Running Shoes Pro,Apparel,63,0,129.0,8,0
+2025-01-04,SKU-APPL-202,Performance Running Shoes Pro,Apparel,95,0,129.0,8,0
+2025-01-05,SKU-APPL-202,Performance Running Shoes Pro,Apparel,89,0,129.0,8,0
+2025-01-06,SKU-APPL-202,Performance Running Shoes Pro,Apparel,71,0,129.0,8,0
+2025-01-07,SKU-APPL-202,Performance Running Shoes Pro,Apparel,51,0,129.0,8,0
+2025-01-08,SKU-APPL-202,Performance Running Shoes Pro,Apparel,62,0,129.0,8,0
+2025-01-09,SKU-APPL-202,Performance Running Shoes Pro,Apparel,66,0,129.0,8,0
+2025-01-10,SKU-APPL-202,Performance Running Shoes Pro,Apparel,71,0,129.0,8,0
+2025-01-11,SKU-APPL-202,Performance Running Shoes Pro,Apparel,105,0,129.0,8,0
+2025-01-12,SKU-APPL-202,Performance Running Shoes Pro,Apparel,84,0,129.0,8,0
+2025-01-13,SKU-APPL-202,Performance Running Shoes Pro,Apparel,47,667,129.0,8,0
+2025-01-14,SKU-APPL-202,Performance Running Shoes Pro,Apparel,81,599,129.0,8,0
+2025-01-15,SKU-APPL-202,Performance Running Shoes Pro,Apparel,93,520,113.52,8,1
+2025-01-16,SKU-APPL-202,Performance Running Shoes Pro,Apparel,80,452,113.52,8,1
+2025-01-17,SKU-APPL-202,Performance Running Shoes Pro,Apparel,108,361,113.52,8,1
+2025-01-18,SKU-APPL-202,Performance Running Shoes Pro,Apparel,136,246,113.52,8,1
+2025-01-19,SKU-APPL-202,Performance Running Shoes Pro,Apparel,114,150,129.0,8,0
+2025-01-20,SKU-APPL-202,Performance Running Shoes Pro,Apparel,68,93,129.0,8,0
+2025-01-21,SKU-APPL-202,Performance Running Shoes Pro,Apparel,92,15,129.0,8,0
+2025-01-22,SKU-APPL-202,Performance Running Shoes Pro,Apparel,88,0,129.0,8,0
+2025-01-23,SKU-APPL-202,Performance Running Shoes Pro,Apparel,64,0,129.0,8,0
+2025-01-24,SKU-APPL-202,Performance Running Shoes Pro,Apparel,79,0,129.0,8,0
+2025-01-25,SKU-APPL-202,Performance Running Shoes Pro,Apparel,110,613,129.0,8,0
+2025-01-26,SKU-APPL-202,Performance Running Shoes Pro,Apparel,119,512,129.0,8,0
+2025-01-27,SKU-APPL-202,Performance Running Shoes Pro,Apparel,57,464,129.0,8,0
+2025-01-28,SKU-APPL-202,Performance Running Shoes Pro,Apparel,77,399,129.0,8,0
+2025-01-29,SKU-APPL-202,Performance Running Shoes Pro,Apparel,82,330,129.0,8,0
+2025-01-30,SKU-APPL-202,Performance Running Shoes Pro,Apparel,48,290,129.0,8,0
+2025-01-31,SKU-APPL-202,Performance Running Shoes Pro,Apparel,55,244,129.0,8,0
+2025-02-01,SKU-APPL-202,Performance Running Shoes Pro,Apparel,80,176,129.0,8,0
+2025-02-02,SKU-APPL-202,Performance Running Shoes Pro,Apparel,101,91,129.0,8,0
+2025-02-03,SKU-APPL-202,Performance Running Shoes Pro,Apparel,79,24,129.0,8,0
+2025-02-04,SKU-APPL-202,Performance Running Shoes Pro,Apparel,88,0,129.0,8,0
+2025-02-05,SKU-APPL-202,Performance Running Shoes Pro,Apparel,71,0,129.0,8,0
+2025-02-06,SKU-APPL-202,Performance Running Shoes Pro,Apparel,90,630,129.0,8,0
+2025-02-07,SKU-APPL-202,Performance Running Shoes Pro,Apparel,54,585,129.0,8,0
+2025-02-08,SKU-APPL-202,Performance Running Shoes Pro,Apparel,86,512,129.0,8,0
+2025-02-09,SKU-APPL-202,Performance Running Shoes Pro,Apparel,106,422,129.0,8,0
+2025-02-10,SKU-APPL-202,Performance Running Shoes Pro,Apparel,76,358,129.0,8,0
+2025-02-11,SKU-APPL-202,Performance Running Shoes Pro,Apparel,71,298,129.0,8,0
+2025-02-12,SKU-APPL-202,Performance Running Shoes Pro,Apparel,47,259,129.0,8,0
+2025-02-13,SKU-APPL-202,Performance Running Shoes Pro,Apparel,71,199,129.0,8,0
+2025-02-14,SKU-APPL-202,Performance Running Shoes Pro,Apparel,57,151,129.0,8,0
+2025-02-15,SKU-APPL-202,Performance Running Shoes Pro,Apparel,117,52,129.0,8,0
+2025-02-16,SKU-APPL-202,Performance Running Shoes Pro,Apparel,113,0,129.0,8,0
+2025-02-17,SKU-APPL-202,Performance Running Shoes Pro,Apparel,62,0,129.0,8,0
+2025-02-18,SKU-APPL-202,Performance Running Shoes Pro,Apparel,67,650,129.0,8,0
+2025-02-19,SKU-APPL-202,Performance Running Shoes Pro,Apparel,61,599,129.0,8,0
+2025-02-20,SKU-APPL-202,Performance Running Shoes Pro,Apparel,73,537,129.0,8,0
+2025-02-21,SKU-APPL-202,Performance Running Shoes Pro,Apparel,85,465,129.0,8,0
+2025-02-22,SKU-APPL-202,Performance Running Shoes Pro,Apparel,99,381,129.0,8,0
+2025-02-23,SKU-APPL-202,Performance Running Shoes Pro,Apparel,117,282,129.0,8,0
+2025-02-24,SKU-APPL-202,Performance Running Shoes Pro,Apparel,68,225,129.0,8,0
+2025-02-25,SKU-APPL-202,Performance Running Shoes Pro,Apparel,65,170,129.0,8,0
+2025-02-26,SKU-APPL-202,Performance Running Shoes Pro,Apparel,73,108,129.0,8,0
+2025-02-27,SKU-APPL-202,Performance Running Shoes Pro,Apparel,62,56,129.0,8,0
+2025-02-28,SKU-APPL-202,Performance Running Shoes Pro,Apparel,68,0,129.0,8,0
+2025-03-01,SKU-APPL-202,Performance Running Shoes Pro,Apparel,98,0,129.0,8,0
+2025-03-02,SKU-APPL-202,Performance Running Shoes Pro,Apparel,136,591,129.0,8,0
+2025-03-03,SKU-APPL-202,Performance Running Shoes Pro,Apparel,76,527,129.0,8,0
+2025-03-04,SKU-APPL-202,Performance Running Shoes Pro,Apparel,93,448,113.52,8,1
+2025-03-05,SKU-APPL-202,Performance Running Shoes Pro,Apparel,105,359,113.52,8,1
+2025-03-06,SKU-APPL-202,Performance Running Shoes Pro,Apparel,101,274,113.52,8,1
+2025-03-07,SKU-APPL-202,Performance Running Shoes Pro,Apparel,100,189,113.52,8,1
+2025-03-08,SKU-APPL-202,Performance Running Shoes Pro,Apparel,121,87,129.0,8,0
+2025-03-09,SKU-APPL-202,Performance Running Shoes Pro,Apparel,123,0,129.0,8,0
+2025-03-10,SKU-APPL-202,Performance Running Shoes Pro,Apparel,70,0,129.0,8,0
+2025-03-11,SKU-APPL-202,Performance Running Shoes Pro,Apparel,70,0,129.0,8,0
+2025-03-12,SKU-APPL-202,Performance Running Shoes Pro,Apparel,73,0,129.0,8,0
+2025-03-13,SKU-APPL-202,Performance Running Shoes Pro,Apparel,49,0,129.0,8,0
+2025-03-14,SKU-APPL-202,Performance Running Shoes Pro,Apparel,59,656,129.0,8,0
+2025-03-15,SKU-APPL-202,Performance Running Shoes Pro,Apparel,132,544,129.0,8,0
+2025-03-16,SKU-APPL-202,Performance Running Shoes Pro,Apparel,135,430,129.0,8,0
+2025-03-17,SKU-APPL-202,Performance Running Shoes Pro,Apparel,74,368,129.0,8,0
+2025-03-18,SKU-APPL-202,Performance Running Shoes Pro,Apparel,84,297,129.0,8,0
+2025-03-19,SKU-APPL-202,Performance Running Shoes Pro,Apparel,81,229,129.0,8,0
+2025-03-20,SKU-APPL-202,Performance Running Shoes Pro,Apparel,114,133,129.0,8,0
+2025-03-21,SKU-APPL-202,Performance Running Shoes Pro,Apparel,91,56,129.0,8,0
+2025-03-22,SKU-APPL-202,Performance Running Shoes Pro,Apparel,115,0,129.0,8,0
+2025-03-23,SKU-APPL-202,Performance Running Shoes Pro,Apparel,105,0,129.0,8,0
+2025-03-24,SKU-APPL-202,Performance Running Shoes Pro,Apparel,59,0,129.0,8,0
+2025-03-25,SKU-APPL-202,Performance Running Shoes Pro,Apparel,80,0,129.0,8,0
+2025-03-26,SKU-APPL-202,Performance Running Shoes Pro,Apparel,69,648,129.0,8,0
+2025-03-27,SKU-APPL-202,Performance Running Shoes Pro,Apparel,61,597,129.0,8,0
+2025-03-28,SKU-APPL-202,Performance Running Shoes Pro,Apparel,70,538,129.0,8,0
+2025-03-29,SKU-APPL-202,Performance Running Shoes Pro,Apparel,104,450,129.0,8,0
+2025-03-30,SKU-APPL-202,Performance Running Shoes Pro,Apparel,214,269,129.0,8,0
+2025-03-31,SKU-APPL-202,Performance Running Shoes Pro,Apparel,140,150,129.0,8,0
+2025-04-01,SKU-APPL-202,Performance Running Shoes Pro,Apparel,129,41,129.0,8,0
+2025-04-02,SKU-APPL-202,Performance Running Shoes Pro,Apparel,147,0,129.0,8,0
+2025-04-03,SKU-APPL-202,Performance Running Shoes Pro,Apparel,131,0,129.0,8,0
+2025-04-04,SKU-APPL-202,Performance Running Shoes Pro,Apparel,119,0,129.0,8,0
+2025-04-05,SKU-APPL-202,Performance Running Shoes Pro,Apparel,213,0,129.0,8,0
+2025-04-06,SKU-APPL-202,Performance Running Shoes Pro,Apparel,201,0,129.0,8,0
+2025-04-07,SKU-APPL-202,Performance Running Shoes Pro,Apparel,118,606,129.0,8,0
+2025-04-08,SKU-APPL-202,Performance Running Shoes Pro,Apparel,128,498,129.0,8,0
+2025-04-09,SKU-APPL-202,Performance Running Shoes Pro,Apparel,120,396,129.0,8,0
+2025-04-10,SKU-APPL-202,Performance Running Shoes Pro,Apparel,114,300,129.0,8,0
+2025-01-01,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,22,17,349.0,15,0
+2025-01-02,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,26,0,349.0,15,0
+2025-01-03,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,13,0,349.0,15,0
+2025-01-04,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,27,0,349.0,15,0
+2025-01-05,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,22,0,349.0,15,0
+2025-01-06,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,16,0,349.0,15,0
+2025-01-07,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,16,0,349.0,15,0
+2025-01-08,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,15,0,349.0,15,0
+2025-01-09,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,19,0,349.0,15,0
+2025-01-10,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,15,0,349.0,15,0
+2025-01-11,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,26,0,349.0,15,0
+2025-01-12,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,25,0,349.0,15,0
+2025-01-13,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,18,0,349.0,15,0
+2025-01-14,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,15,0,349.0,15,0
+2025-01-15,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,23,0,307.12,15,1
+2025-01-16,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,29,0,307.12,15,1
+2025-01-17,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,28,0,307.12,15,1
+2025-01-18,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,31,0,307.12,15,1
+2025-01-19,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,26,0,349.0,15,0
+2025-01-20,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,22,306,349.0,15,0
+2025-01-21,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,13,295,349.0,15,0
+2025-01-22,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,22,277,349.0,15,0
+2025-01-23,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,17,263,349.0,15,0
+2025-01-24,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,22,245,349.0,15,0
+2025-01-25,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,23,226,349.0,15,0
+2025-01-26,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,19,210,349.0,15,0
+2025-01-27,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,13,199,349.0,15,0
+2025-01-28,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,20,182,349.0,15,0
+2025-01-29,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,21,165,349.0,15,0
+2025-01-30,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,16,152,349.0,15,0
+2025-01-31,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,23,133,349.0,15,0
+2025-02-01,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,20,116,349.0,15,0
+2025-02-02,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,27,94,349.0,15,0
+2025-02-03,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,15,82,349.0,15,0
+2025-02-04,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,18,67,349.0,15,0
+2025-02-05,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,20,50,349.0,15,0
+2025-02-06,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,17,36,349.0,15,0
+2025-02-07,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,19,20,349.0,15,0
+2025-02-08,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,32,317,349.0,15,0
+2025-02-09,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,25,296,349.0,15,0
+2025-02-10,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,24,276,349.0,15,0
+2025-02-11,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,16,263,349.0,15,0
+2025-02-12,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,23,244,349.0,15,0
+2025-02-13,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,26,222,349.0,15,0
+2025-02-14,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,11,213,349.0,15,0
+2025-02-15,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,25,192,349.0,15,0
+2025-02-16,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,30,167,349.0,15,0
+2025-02-17,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,20,150,349.0,15,0
+2025-02-18,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,22,132,349.0,15,0
+2025-02-19,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,19,116,349.0,15,0
+2025-02-20,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,21,99,349.0,15,0
+2025-02-21,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,20,82,349.0,15,0
+2025-02-22,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,33,54,349.0,15,0
+2025-02-23,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,30,29,349.0,15,0
+2025-02-24,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,23,10,349.0,15,0
+2025-02-25,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,20,0,349.0,15,0
+2025-02-26,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,19,0,349.0,15,0
+2025-02-27,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,20,307,349.0,15,0
+2025-02-28,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,23,288,349.0,15,0
+2025-03-01,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,27,266,349.0,15,0
+2025-03-02,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,30,241,349.0,15,0
+2025-03-03,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,30,216,349.0,15,0
+2025-03-04,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,33,188,307.12,15,1
+2025-03-05,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,28,165,307.12,15,1
+2025-03-06,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,34,137,307.12,15,1
+2025-03-07,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,28,114,307.12,15,1
+2025-03-08,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,21,97,349.0,15,0
+2025-03-09,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,25,76,349.0,15,0
+2025-03-10,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,14,65,349.0,15,0
+2025-03-11,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,20,48,349.0,15,0
+2025-03-12,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,22,30,349.0,15,0
+2025-03-13,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,29,6,349.0,15,0
+2025-03-14,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,23,0,349.0,15,0
+2025-03-15,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,29,0,349.0,15,0
+2025-03-16,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,33,0,349.0,15,0
+2025-03-17,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,13,0,349.0,15,0
+2025-03-18,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,23,305,349.0,15,0
+2025-03-19,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,25,284,349.0,15,0
+2025-03-20,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,16,271,349.0,15,0
+2025-03-21,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,27,249,349.0,15,0
+2025-03-22,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,31,223,349.0,15,0
+2025-03-23,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,28,200,349.0,15,0
+2025-03-24,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,25,179,349.0,15,0
+2025-03-25,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,31,153,349.0,15,0
+2025-03-26,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,23,134,349.0,15,0
+2025-03-27,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,23,115,349.0,15,0
+2025-03-28,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,20,98,349.0,15,0
+2025-03-29,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,27,76,349.0,15,0
+2025-03-30,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,33,48,349.0,15,0
+2025-03-31,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,19,32,349.0,15,0
+2025-04-01,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,23,13,349.0,15,0
+2025-04-02,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,20,0,349.0,15,0
+2025-04-03,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,24,0,349.0,15,0
+2025-04-04,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,24,0,349.0,15,0
+2025-04-05,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,34,0,349.0,15,0
+2025-04-06,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,28,301,349.0,15,0
+2025-04-07,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,21,284,349.0,15,0
+2025-04-08,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,18,269,349.0,15,0
+2025-04-09,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,21,252,349.0,15,0
+2025-04-10,SKU-HOME-301,Stainless Steel Espresso Machine,Home & Kitchen,24,232,349.0,15,0
+2025-01-01,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,35,111,119.99,10,0
+2025-01-02,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,25,90,119.99,10,0
+2025-01-03,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,35,61,119.99,10,0
+2025-01-04,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,51,18,119.99,10,0
+2025-01-05,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,45,0,119.99,10,0
+2025-01-06,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,42,0,119.99,10,0
+2025-01-07,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,26,0,119.99,10,0
+2025-01-08,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,23,0,119.99,10,0
+2025-01-09,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,20,0,119.99,10,0
+2025-01-10,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,40,0,119.99,10,0
+2025-01-11,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,47,0,119.99,10,0
+2025-01-12,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,43,0,119.99,10,0
+2025-01-13,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,33,0,119.99,10,0
+2025-01-14,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,24,0,119.99,10,0
+2025-01-15,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,57,351,105.59,10,1
+2025-01-16,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,43,315,105.59,10,1
+2025-01-17,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,43,279,105.59,10,1
+2025-01-18,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,64,225,105.59,10,1
+2025-01-19,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,47,186,119.99,10,0
+2025-01-20,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,33,158,119.99,10,0
+2025-01-21,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,27,136,119.99,10,0
+2025-01-22,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,35,107,119.99,10,0
+2025-01-23,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,43,71,119.99,10,0
+2025-01-24,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,40,37,119.99,10,0
+2025-01-25,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,55,0,119.99,10,0
+2025-01-26,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,42,0,119.99,10,0
+2025-01-27,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,26,0,119.99,10,0
+2025-01-28,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,32,0,119.99,10,0
+2025-01-29,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,33,371,119.99,10,0
+2025-01-30,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,39,338,119.99,10,0
+2025-01-31,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,22,320,119.99,10,0
+2025-02-01,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,55,274,119.99,10,0
+2025-02-02,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,45,236,119.99,10,0
+2025-02-03,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,30,211,119.99,10,0
+2025-02-04,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,27,189,119.99,10,0
+2025-02-05,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,23,170,119.99,10,0
+2025-02-06,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,38,138,119.99,10,0
+2025-02-07,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,34,110,119.99,10,0
+2025-02-08,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,39,77,119.99,10,0
+2025-02-09,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,39,44,119.99,10,0
+2025-02-10,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,31,18,119.99,10,0
+2025-02-11,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,43,0,119.99,10,0
+2025-02-12,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,32,372,119.99,10,0
+2025-02-13,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,24,352,119.99,10,0
+2025-02-14,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,32,325,119.99,10,0
+2025-02-15,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,45,287,119.99,10,0
+2025-02-16,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,31,261,119.99,10,0
+2025-02-17,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,33,233,119.99,10,0
+2025-02-18,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,32,206,119.99,10,0
+2025-02-19,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,38,174,119.99,10,0
+2025-02-20,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,45,136,119.99,10,0
+2025-02-21,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,41,102,119.99,10,0
+2025-02-22,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,46,63,119.99,10,0
+2025-02-23,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,41,29,119.99,10,0
+2025-02-24,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,50,0,119.99,10,0
+2025-02-25,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,34,0,119.99,10,0
+2025-02-26,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,34,371,119.99,10,0
+2025-02-27,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,34,343,119.99,10,0
+2025-02-28,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,35,314,119.99,10,0
+2025-03-01,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,47,275,119.99,10,0
+2025-03-02,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,45,237,119.99,10,0
+2025-03-03,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,31,211,119.99,10,0
+2025-03-04,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,46,172,105.59,10,1
+2025-03-05,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,43,136,105.59,10,1
+2025-03-06,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,42,101,105.59,10,1
+2025-03-07,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,47,62,105.59,10,1
+2025-03-08,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,47,23,119.99,10,0
+2025-03-09,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,57,0,119.99,10,0
+2025-03-10,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,19,0,119.99,10,0
+2025-03-11,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,41,0,119.99,10,0
+2025-03-12,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,42,364,119.99,10,0
+2025-03-13,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,22,346,119.99,10,0
+2025-03-14,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,33,318,119.99,10,0
+2025-03-15,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,46,279,119.99,10,0
+2025-03-16,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,40,245,119.99,10,0
+2025-03-17,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,30,220,119.99,10,0
+2025-03-18,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,28,197,119.99,10,0
+2025-03-19,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,45,159,119.99,10,0
+2025-03-20,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,40,125,119.99,10,0
+2025-03-21,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,42,90,119.99,10,0
+2025-03-22,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,53,45,119.99,10,0
+2025-03-23,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,42,10,119.99,10,0
+2025-03-24,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,32,0,119.99,10,0
+2025-03-25,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,38,0,119.99,10,0
+2025-03-26,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,28,376,119.99,10,0
+2025-03-27,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,39,343,119.99,10,0
+2025-03-28,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,33,315,119.99,10,0
+2025-03-29,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,47,276,119.99,10,0
+2025-03-30,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,53,231,119.99,10,0
+2025-03-31,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,38,199,119.99,10,0
+2025-04-01,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,33,171,119.99,10,0
+2025-04-02,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,42,136,119.99,10,0
+2025-04-03,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,28,113,119.99,10,0
+2025-04-04,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,39,80,119.99,10,0
+2025-04-05,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,52,36,119.99,10,0
+2025-04-06,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,47,0,119.99,10,0
+2025-04-07,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,37,0,119.99,10,0
+2025-04-08,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,27,0,119.99,10,0
+2025-04-09,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,40,365,119.99,10,0
+2025-04-10,SKU-HOME-302,Ceramic Non-Stick Cookware Set (10-Pc),Home & Kitchen,34,337,119.99,10,0
+2025-01-01,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,50,138,69.95,6,0
+2025-01-02,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,65,83,69.95,6,0
+2025-01-03,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,49,42,69.95,6,0
+2025-01-04,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,54,0,69.95,6,0
+2025-01-05,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,53,0,69.95,6,0
+2025-01-06,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,62,0,69.95,6,0
+2025-01-07,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,45,0,69.95,6,0
+2025-01-08,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,72,0,69.95,6,0
+2025-01-09,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,38,0,69.95,6,0
+2025-01-10,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,72,0,69.95,6,0
+2025-01-11,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,71,462,69.95,6,0
+2025-01-12,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,68,405,69.95,6,0
+2025-01-13,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,53,360,69.95,6,0
+2025-01-14,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,61,309,69.95,6,0
+2025-01-15,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,78,243,61.56,6,1
+2025-01-16,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,88,169,61.56,6,1
+2025-01-17,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,80,101,61.56,6,1
+2025-01-18,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,96,20,61.56,6,1
+2025-01-19,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,67,0,69.95,6,0
+2025-01-20,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,58,0,69.95,6,0
+2025-01-21,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,62,470,69.95,6,0
+2025-01-22,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,44,433,69.95,6,0
+2025-01-23,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,47,394,69.95,6,0
+2025-01-24,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,66,338,69.95,6,0
+2025-01-25,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,73,276,69.95,6,0
+2025-01-26,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,70,217,69.95,6,0
+2025-01-27,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,60,166,69.95,6,0
+2025-01-28,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,64,112,69.95,6,0
+2025-01-29,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,56,65,69.95,6,0
+2025-01-30,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,54,20,69.95,6,0
+2025-01-31,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,63,489,69.95,6,0
+2025-02-01,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,65,434,69.95,6,0
+2025-02-02,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,77,369,69.95,6,0
+2025-02-03,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,46,330,69.95,6,0
+2025-02-04,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,71,270,69.95,6,0
+2025-02-05,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,66,214,69.95,6,0
+2025-02-06,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,64,160,69.95,6,0
+2025-02-07,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,71,100,69.95,6,0
+2025-02-08,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,90,24,69.95,6,0
+2025-02-09,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,84,0,69.95,6,0
+2025-02-10,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,46,483,69.95,6,0
+2025-02-11,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,51,440,69.95,6,0
+2025-02-12,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,57,392,69.95,6,0
+2025-02-13,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,63,339,69.95,6,0
+2025-02-14,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,68,282,69.95,6,0
+2025-02-15,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,70,223,69.95,6,0
+2025-02-16,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,78,157,69.95,6,0
+2025-02-17,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,57,109,69.95,6,0
+2025-02-18,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,59,59,69.95,6,0
+2025-02-19,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,52,15,69.95,6,0
+2025-02-20,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,56,490,69.95,6,0
+2025-02-21,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,52,446,69.95,6,0
+2025-02-22,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,69,388,69.95,6,0
+2025-02-23,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,87,315,69.95,6,0
+2025-02-24,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,56,268,69.95,6,0
+2025-02-25,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,89,193,69.95,6,0
+2025-02-26,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,70,134,69.95,6,0
+2025-02-27,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,67,78,69.95,6,0
+2025-02-28,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,58,29,69.95,6,0
+2025-03-01,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,85,0,69.95,6,0
+2025-03-02,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,74,460,69.95,6,0
+2025-03-03,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,67,404,69.95,6,0
+2025-03-04,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,112,309,61.56,6,1
+2025-03-05,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,88,235,61.56,6,1
+2025-03-06,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,100,150,61.56,6,1
+2025-03-07,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,83,80,61.56,6,1
+2025-03-08,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,79,13,69.95,6,0
+2025-03-09,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,96,0,69.95,6,0
+2025-03-10,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,61,0,69.95,6,0
+2025-03-11,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,83,0,69.95,6,0
+2025-03-12,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,73,460,69.95,6,0
+2025-03-13,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,62,408,69.95,6,0
+2025-03-14,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,73,346,69.95,6,0
+2025-03-15,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,89,271,69.95,6,0
+2025-03-16,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,86,198,69.95,6,0
+2025-03-17,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,53,153,69.95,6,0
+2025-03-18,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,61,102,69.95,6,0
+2025-03-19,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,65,47,69.95,6,0
+2025-03-20,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,67,0,69.95,6,0
+2025-03-21,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,73,0,69.95,6,0
+2025-03-22,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,83,452,69.95,6,0
+2025-03-23,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,69,394,69.95,6,0
+2025-03-24,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,71,334,69.95,6,0
+2025-03-25,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,73,272,69.95,6,0
+2025-03-26,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,73,210,69.95,6,0
+2025-03-27,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,78,144,69.95,6,0
+2025-03-28,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,75,81,69.95,6,0
+2025-03-29,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,86,8,69.95,6,0
+2025-03-30,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,81,0,69.95,6,0
+2025-03-31,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,53,0,69.95,6,0
+2025-04-01,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,72,461,69.95,6,0
+2025-04-02,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,70,402,69.95,6,0
+2025-04-03,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,71,342,69.95,6,0
+2025-04-04,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,57,294,69.95,6,0
+2025-04-05,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,72,233,69.95,6,0
+2025-04-06,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,91,156,69.95,6,0
+2025-04-07,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,68,99,69.95,6,0
+2025-04-08,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,74,37,69.95,6,0
+2025-04-09,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,69,0,69.95,6,0
+2025-04-10,SKU-HLTH-401,Sonic Electric Toothbrush Elite,Health & Personal Care,69,0,69.95,6,0
+2025-01-01,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,83,10,54.99,5,0
+2025-01-02,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,63,0,54.99,5,0
+2025-01-03,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,72,0,54.99,5,0
+2025-01-04,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,75,0,54.99,5,0
+2025-01-05,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,76,0,54.99,5,0
+2025-01-06,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,67,0,54.99,5,0
+2025-01-07,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,75,0,54.99,5,0
+2025-01-08,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,65,0,54.99,5,0
+2025-01-09,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,90,0,54.99,5,0
+2025-01-10,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,60,547,54.99,5,0
+2025-01-11,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,81,479,54.99,5,0
+2025-01-12,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,78,413,54.99,5,0
+2025-01-13,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,94,334,54.99,5,0
+2025-01-14,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,77,269,54.99,5,0
+2025-01-15,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,114,173,48.39,5,1
+2025-01-16,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,80,105,48.39,5,1
+2025-01-17,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,105,16,48.39,5,1
+2025-01-18,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,129,0,48.39,5,1
+2025-01-19,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,88,524,54.99,5,0
+2025-01-20,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,90,448,54.99,5,0
+2025-01-21,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,68,391,54.99,5,0
+2025-01-22,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,96,310,54.99,5,0
+2025-01-23,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,108,219,54.99,5,0
+2025-01-24,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,71,159,54.99,5,0
+2025-01-25,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,82,90,54.99,5,0
+2025-01-26,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,109,0,54.99,5,0
+2025-01-27,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,99,0,54.99,5,0
+2025-01-28,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,70,539,54.99,5,0
+2025-01-29,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,72,478,54.99,5,0
+2025-01-30,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,74,416,54.99,5,0
+2025-01-31,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,60,365,54.99,5,0
+2025-02-01,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,78,299,54.99,5,0
+2025-02-02,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,77,234,54.99,5,0
+2025-02-03,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,68,177,54.99,5,0
+2025-02-04,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,79,110,54.99,5,0
+2025-02-05,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,83,40,54.99,5,0
+2025-02-06,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,102,552,54.99,5,0
+2025-02-07,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,66,496,54.99,5,0
+2025-02-08,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,106,406,54.99,5,0
+2025-02-09,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,90,330,54.99,5,0
+2025-02-10,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,80,262,54.99,5,0
+2025-02-11,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,91,185,54.99,5,0
+2025-02-12,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,66,129,54.99,5,0
+2025-02-13,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,87,56,54.99,5,0
+2025-02-14,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,84,0,54.99,5,0
+2025-02-15,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,101,513,54.99,5,0
+2025-02-16,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,99,429,54.99,5,0
+2025-02-17,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,117,330,54.99,5,0
+2025-02-18,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,74,268,54.99,5,0
+2025-02-19,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,75,205,54.99,5,0
+2025-02-20,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,74,143,54.99,5,0
+2025-02-21,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,76,79,54.99,5,0
+2025-02-22,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,87,6,54.99,5,0
+2025-02-23,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,113,0,54.99,5,0
+2025-02-24,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,104,510,54.99,5,0
+2025-02-25,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,76,446,54.99,5,0
+2025-02-26,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,73,384,54.99,5,0
+2025-02-27,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,91,307,54.99,5,0
+2025-02-28,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,77,242,54.99,5,0
+2025-03-01,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,106,152,54.99,5,0
+2025-03-02,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,101,67,54.99,5,0
+2025-03-03,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,64,13,54.99,5,0
+2025-03-04,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,137,0,48.39,5,1
+2025-03-05,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,141,479,48.39,5,1
+2025-03-06,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,107,389,48.39,5,1
+2025-03-07,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,111,295,48.39,5,1
+2025-03-08,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,103,208,54.99,5,0
+2025-03-09,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,104,120,54.99,5,0
+2025-03-10,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,96,39,54.99,5,0
+2025-03-11,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,115,0,54.99,5,0
+2025-03-12,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,84,0,54.99,5,0
+2025-03-13,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,76,0,54.99,5,0
+2025-03-14,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,68,541,54.99,5,0
+2025-03-15,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,90,465,54.99,5,0
+2025-03-16,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,100,380,54.99,5,0
+2025-03-17,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,113,284,54.99,5,0
+2025-03-18,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,80,216,54.99,5,0
+2025-03-19,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,91,139,54.99,5,0
+2025-03-20,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,88,65,54.99,5,0
+2025-03-21,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,105,0,54.99,5,0
+2025-03-22,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,137,0,54.99,5,0
+2025-03-23,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,94,519,54.99,5,0
+2025-03-24,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,81,451,54.99,5,0
+2025-03-25,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,103,364,54.99,5,0
+2025-03-26,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,98,281,54.99,5,0
+2025-03-27,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,114,185,54.99,5,0
+2025-03-28,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,97,103,54.99,5,0
+2025-03-29,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,97,21,54.99,5,0
+2025-03-30,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,110,0,54.99,5,0
+2025-03-31,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,104,0,54.99,5,0
+2025-04-01,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,100,513,54.99,5,0
+2025-04-02,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,96,432,54.99,5,0
+2025-04-03,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,104,344,54.99,5,0
+2025-04-04,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,106,254,54.99,5,0
+2025-04-05,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,122,151,54.99,5,0
+2025-04-06,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,112,56,54.99,5,0
+2025-04-07,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,87,0,54.99,5,0
+2025-04-08,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,91,0,54.99,5,0
+2025-04-09,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,106,0,54.99,5,0
+2025-04-10,SKU-HLTH-402,Organic Whey Protein Isolate (2kg),Health & Personal Care,78,532,54.99,5,0
+2025-01-01,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,91,183,24.5,4,0
+2025-01-02,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,80,115,24.5,4,0
+2025-01-03,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,86,42,24.5,4,0
+2025-01-04,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,127,0,24.5,4,0
+2025-01-05,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,111,0,24.5,4,0
+2025-01-06,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,87,0,24.5,4,0
+2025-01-07,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,67,0,24.5,4,0
+2025-01-08,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,98,0,24.5,4,0
+2025-01-09,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,97,564,24.5,4,0
+2025-01-10,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,120,462,24.5,4,0
+2025-01-11,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,105,373,24.5,4,0
+2025-01-12,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,114,277,24.5,4,0
+2025-01-13,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,92,199,24.5,4,0
+2025-01-14,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,113,103,24.5,4,0
+2025-01-15,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,119,2,21.56,4,1
+2025-01-16,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,125,0,21.56,4,1
+2025-01-17,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,130,536,21.56,4,1
+2025-01-18,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,155,405,21.56,4,1
+2025-01-19,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,106,315,24.5,4,0
+2025-01-20,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,93,236,24.5,4,0
+2025-01-21,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,107,146,24.5,4,0
+2025-01-22,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,76,82,24.5,4,0
+2025-01-23,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,93,3,24.5,4,0
+2025-01-24,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,81,0,24.5,4,0
+2025-01-25,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,133,533,24.5,4,0
+2025-01-26,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,92,455,24.5,4,0
+2025-01-27,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,84,384,24.5,4,0
+2025-01-28,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,98,301,24.5,4,0
+2025-01-29,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,116,203,24.5,4,0
+2025-01-30,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,92,125,24.5,4,0
+2025-01-31,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,85,53,24.5,4,0
+2025-02-01,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,145,0,24.5,4,0
+2025-02-02,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,96,565,24.5,4,0
+2025-02-03,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,61,514,24.5,4,0
+2025-02-04,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,101,429,24.5,4,0
+2025-02-05,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,87,356,24.5,4,0
+2025-02-06,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,80,288,24.5,4,0
+2025-02-07,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,106,198,24.5,4,0
+2025-02-08,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,123,94,24.5,4,0
+2025-02-09,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,111,0,24.5,4,0
+2025-02-10,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,77,581,24.5,4,0
+2025-02-11,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,109,489,24.5,4,0
+2025-02-12,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,106,399,24.5,4,0
+2025-02-13,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,95,319,24.5,4,0
+2025-02-14,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,124,214,24.5,4,0
+2025-02-15,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,105,125,24.5,4,0
+2025-02-16,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,98,42,24.5,4,0
+2025-02-17,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,87,0,24.5,4,0
+2025-02-18,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,97,564,24.5,4,0
+2025-02-19,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,101,479,24.5,4,0
+2025-02-20,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,94,400,24.5,4,0
+2025-02-21,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,103,313,24.5,4,0
+2025-02-22,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,104,225,24.5,4,0
+2025-02-23,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,145,102,24.5,4,0
+2025-02-24,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,97,20,24.5,4,0
+2025-02-25,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,116,0,24.5,4,0
+2025-02-26,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,104,558,24.5,4,0
+2025-02-27,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,106,468,24.5,4,0
+2025-02-28,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,108,377,24.5,4,0
+2025-03-01,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,131,266,24.5,4,0
+2025-03-02,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,134,153,24.5,4,0
+2025-03-03,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,120,51,24.5,4,0
+2025-03-04,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,138,0,21.56,4,1
+2025-03-05,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,146,0,21.56,4,1
+2025-03-06,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,134,533,21.56,4,1
+2025-03-07,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,157,400,21.56,4,1
+2025-03-08,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,116,302,24.5,4,0
+2025-03-09,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,153,172,24.5,4,0
+2025-03-10,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,100,87,24.5,4,0
+2025-03-11,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,79,20,24.5,4,0
+2025-03-12,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,103,0,24.5,4,0
+2025-03-13,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,91,0,24.5,4,0
+2025-03-14,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,114,550,24.5,4,0
+2025-03-15,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,117,451,24.5,4,0
+2025-03-16,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,120,349,24.5,4,0
+2025-03-17,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,73,287,24.5,4,0
+2025-03-18,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,95,207,24.5,4,0
+2025-03-19,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,65,152,24.5,4,0
+2025-03-20,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,78,86,24.5,4,0
+2025-03-21,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,113,0,24.5,4,0
+2025-03-22,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,139,528,24.5,4,0
+2025-03-23,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,134,415,24.5,4,0
+2025-03-24,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,88,341,24.5,4,0
+2025-03-25,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,101,256,24.5,4,0
+2025-03-26,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,102,170,24.5,4,0
+2025-03-27,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,85,98,24.5,4,0
+2025-03-28,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,125,0,24.5,4,0
+2025-03-29,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,141,0,24.5,4,0
+2025-03-30,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,125,540,24.5,4,0
+2025-03-31,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,103,453,24.5,4,0
+2025-04-01,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,106,363,24.5,4,0
+2025-04-02,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,72,302,24.5,4,0
+2025-04-03,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,99,218,24.5,4,0
+2025-04-04,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,92,140,24.5,4,0
+2025-04-05,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,113,44,24.5,4,0
+2025-04-06,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,124,0,24.5,4,0
+2025-04-07,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,129,537,24.5,4,0
+2025-04-08,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,112,442,24.5,4,0
+2025-04-09,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,94,363,24.5,4,0
+2025-04-10,SKU-GROC-501,Artisanal Single-Origin Coffee Beans (1kg),Groceries,111,269,24.5,4,0
+2025-01-01,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,50,118,18.75,5,0
+2025-01-02,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,47,79,18.75,5,0
+2025-01-03,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,41,45,18.75,5,0
+2025-01-04,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,48,5,18.75,5,0
+2025-01-05,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,58,0,18.75,5,0
+2025-01-06,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,43,0,18.75,5,0
+2025-01-07,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,47,0,18.75,5,0
+2025-01-08,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,45,0,18.75,5,0
+2025-01-09,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,48,0,18.75,5,0
+2025-01-10,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,37,311,18.75,5,0
+2025-01-11,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,63,258,18.75,5,0
+2025-01-12,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,55,212,18.75,5,0
+2025-01-13,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,56,165,18.75,5,0
+2025-01-14,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,37,134,18.75,5,0
+2025-01-15,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,69,76,16.5,5,1
+2025-01-16,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,58,27,16.5,5,1
+2025-01-17,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,52,0,16.5,5,1
+2025-01-18,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,71,0,16.5,5,1
+2025-01-19,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,53,297,18.75,5,0
+2025-01-20,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,45,259,18.75,5,0
+2025-01-21,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,46,220,18.75,5,0
+2025-01-22,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,39,187,18.75,5,0
+2025-01-23,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,43,151,18.75,5,0
+2025-01-24,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,58,102,18.75,5,0
+2025-01-25,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,68,45,18.75,5,0
+2025-01-26,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,59,0,18.75,5,0
+2025-01-27,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,43,0,18.75,5,0
+2025-01-28,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,44,305,18.75,5,0
+2025-01-29,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,48,265,18.75,5,0
+2025-01-30,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,36,235,18.75,5,0
+2025-01-31,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,42,200,18.75,5,0
+2025-02-01,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,45,162,18.75,5,0
+2025-02-02,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,60,111,18.75,5,0
+2025-02-03,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,49,70,18.75,5,0
+2025-02-04,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,41,36,18.75,5,0
+2025-02-05,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,55,0,18.75,5,0
+2025-02-06,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,36,312,18.75,5,0
+2025-02-07,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,34,284,18.75,5,0
+2025-02-08,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,59,234,18.75,5,0
+2025-02-09,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,65,179,18.75,5,0
+2025-02-10,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,56,132,18.75,5,0
+2025-02-11,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,42,97,18.75,5,0
+2025-02-12,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,52,53,18.75,5,0
+2025-02-13,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,45,15,18.75,5,0
+2025-02-14,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,44,0,18.75,5,0
+2025-02-15,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,65,287,18.75,5,0
+2025-02-16,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,63,234,18.75,5,0
+2025-02-17,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,34,206,18.75,5,0
+2025-02-18,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,56,159,18.75,5,0
+2025-02-19,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,55,113,18.75,5,0
+2025-02-20,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,41,79,18.75,5,0
+2025-02-21,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,48,39,18.75,5,0
+2025-02-22,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,63,0,18.75,5,0
+2025-02-23,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,61,0,18.75,5,0
+2025-02-24,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,42,307,18.75,5,0
+2025-02-25,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,41,273,18.75,5,0
+2025-02-26,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,46,234,18.75,5,0
+2025-02-27,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,54,189,18.75,5,0
+2025-02-28,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,50,147,18.75,5,0
+2025-03-01,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,57,99,18.75,5,0
+2025-03-02,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,66,43,18.75,5,0
+2025-03-03,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,26,21,18.75,5,0
+2025-03-04,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,71,0,16.5,5,1
+2025-03-05,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,50,300,16.5,5,1
+2025-03-06,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,60,249,16.5,5,1
+2025-03-07,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,55,203,16.5,5,1
+2025-03-08,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,51,160,18.75,5,0
+2025-03-09,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,69,102,18.75,5,0
+2025-03-10,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,43,66,18.75,5,0
+2025-03-11,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,49,25,18.75,5,0
+2025-03-12,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,46,0,18.75,5,0
+2025-03-13,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,50,0,18.75,5,0
+2025-03-14,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,47,303,18.75,5,0
+2025-03-15,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,52,259,18.75,5,0
+2025-03-16,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,68,202,18.75,5,0
+2025-03-17,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,43,166,18.75,5,0
+2025-03-18,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,36,136,18.75,5,0
+2025-03-19,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,44,99,18.75,5,0
+2025-03-20,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,58,50,18.75,5,0
+2025-03-21,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,53,5,18.75,5,0
+2025-03-22,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,59,0,18.75,5,0
+2025-03-23,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,59,292,18.75,5,0
+2025-03-24,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,45,254,18.75,5,0
+2025-03-25,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,62,202,18.75,5,0
+2025-03-26,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,50,160,18.75,5,0
+2025-03-27,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,50,118,18.75,5,0
+2025-03-28,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,54,73,18.75,5,0
+2025-03-29,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,63,20,18.75,5,0
+2025-03-30,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,60,0,18.75,5,0
+2025-03-31,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,46,0,18.75,5,0
+2025-04-01,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,47,303,18.75,5,0
+2025-04-02,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,47,264,18.75,5,0
+2025-04-03,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,52,220,18.75,5,0
+2025-04-04,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,48,180,18.75,5,0
+2025-04-05,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,66,124,18.75,5,0
+2025-04-06,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,61,73,18.75,5,0
+2025-04-07,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,48,33,18.75,5,0
+2025-04-08,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,33,5,18.75,5,0
+2025-04-09,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,54,0,18.75,5,0
+2025-04-10,SKU-GROC-502,Organic Extra Virgin Olive Oil (1L),Groceries,50,300,18.75,5,0
+2025-01-01,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,18,80,48.0,9,0
+2025-01-02,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,6,75,48.0,9,0
+2025-01-03,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,21,58,48.0,9,0
+2025-01-04,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,18,43,48.0,9,0
+2025-01-05,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,22,25,48.0,9,0
+2025-01-06,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,12,15,48.0,9,0
+2025-01-07,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,17,1,48.0,9,0
+2025-01-08,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,12,0,48.0,9,0
+2025-01-09,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,13,0,48.0,9,0
+2025-01-10,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,21,0,48.0,9,0
+2025-01-11,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,18,0,48.0,9,0
+2025-01-12,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,19,0,48.0,9,0
+2025-01-13,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,18,0,48.0,9,0
+2025-01-14,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,17,171,48.0,9,0
+2025-01-15,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,21,154,42.24,9,1
+2025-01-16,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,22,136,42.24,9,1
+2025-01-17,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,28,113,42.24,9,1
+2025-01-18,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,25,92,42.24,9,1
+2025-01-19,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,19,76,48.0,9,0
+2025-01-20,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,19,60,48.0,9,0
+2025-01-21,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,19,44,48.0,9,0
+2025-01-22,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,19,28,48.0,9,0
+2025-01-23,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,18,13,48.0,9,0
+2025-01-24,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,12,3,48.0,9,0
+2025-01-25,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,24,0,48.0,9,0
+2025-01-26,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,16,0,48.0,9,0
+2025-01-27,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,17,171,48.0,9,0
+2025-01-28,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,14,160,48.0,9,0
+2025-01-29,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,16,147,48.0,9,0
+2025-01-30,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,17,133,48.0,9,0
+2025-01-31,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,17,119,48.0,9,0
+2025-02-01,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,21,102,48.0,9,0
+2025-02-02,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,24,82,48.0,9,0
+2025-02-03,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,17,68,48.0,9,0
+2025-02-04,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,15,56,48.0,9,0
+2025-02-05,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,19,40,48.0,9,0
+2025-02-06,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,20,23,48.0,9,0
+2025-02-07,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,13,12,48.0,9,0
+2025-02-08,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,21,0,48.0,9,0
+2025-02-09,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,22,167,48.0,9,0
+2025-02-10,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,15,155,48.0,9,0
+2025-02-11,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,20,138,48.0,9,0
+2025-02-12,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,16,125,48.0,9,0
+2025-02-13,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,17,111,48.0,9,0
+2025-02-14,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,16,98,48.0,9,0
+2025-02-15,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,20,81,48.0,9,0
+2025-02-16,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,16,68,48.0,9,0
+2025-02-17,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,12,58,48.0,9,0
+2025-02-18,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,21,41,48.0,9,0
+2025-02-19,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,14,30,48.0,9,0
+2025-02-20,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,14,19,48.0,9,0
+2025-02-21,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,10,11,48.0,9,0
+2025-02-22,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,18,181,48.0,9,0
+2025-02-23,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,16,168,48.0,9,0
+2025-02-24,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,21,151,48.0,9,0
+2025-02-25,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,20,134,48.0,9,0
+2025-02-26,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,15,122,48.0,9,0
+2025-02-27,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,23,103,48.0,9,0
+2025-02-28,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,20,86,48.0,9,0
+2025-03-01,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,19,70,48.0,9,0
+2025-03-02,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,12,60,48.0,9,0
+2025-03-03,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,24,40,48.0,9,0
+2025-03-04,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,18,25,42.24,9,1
+2025-03-05,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,18,10,42.24,9,1
+2025-03-06,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,26,0,42.24,9,1
+2025-03-07,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,30,160,42.24,9,1
+2025-03-08,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,24,140,48.0,9,0
+2025-03-09,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,22,122,48.0,9,0
+2025-03-10,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,18,107,48.0,9,0
+2025-03-11,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,19,91,48.0,9,0
+2025-03-12,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,19,75,48.0,9,0
+2025-03-13,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,18,60,48.0,9,0
+2025-03-14,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,17,46,48.0,9,0
+2025-03-15,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,20,29,48.0,9,0
+2025-03-16,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,18,14,48.0,9,0
+2025-03-17,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,16,1,48.0,9,0
+2025-03-18,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,12,0,48.0,9,0
+2025-03-19,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,16,0,48.0,9,0
+2025-03-20,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,14,174,48.0,9,0
+2025-03-21,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,13,163,48.0,9,0
+2025-03-22,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,21,146,48.0,9,0
+2025-03-23,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,24,126,48.0,9,0
+2025-03-24,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,19,110,48.0,9,0
+2025-03-25,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,12,100,48.0,9,0
+2025-03-26,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,14,89,48.0,9,0
+2025-03-27,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,20,72,48.0,9,0
+2025-03-28,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,14,61,48.0,9,0
+2025-03-29,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,19,45,48.0,9,0
+2025-03-30,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,22,27,48.0,9,0
+2025-03-31,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,14,16,48.0,9,0
+2025-04-01,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,10,8,48.0,9,0
+2025-04-02,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,6,188,48.0,9,0
+2025-04-03,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,8,182,48.0,9,0
+2025-04-04,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,11,173,48.0,9,0
+2025-04-05,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,7,168,48.0,9,0
+2025-04-06,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,13,157,48.0,9,0
+2025-04-07,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,10,149,48.0,9,0
+2025-04-08,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,12,139,48.0,9,0
+2025-04-09,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,11,130,48.0,9,0
+2025-04-10,SKU-GROC-503,Premium Raw Manuka Honey MGO 500+,Groceries,14,119,48.0,9,0
