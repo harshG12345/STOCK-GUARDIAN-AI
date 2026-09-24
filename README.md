@@ -2,267 +2,248 @@
 
 > **"Predict demand. Prevent stock-outs. Make smarter inventory decisions."**
 
-Stock Guardian AI is a high-precision, data-driven inventory intelligence and demand forecasting platform developed for **PS-08: Inventory Demand Prediction**. It bridges the gap between predictive machine learning and actionable procurement by translating historical sales and inventory trends into verified forecasts, statistical stockout risks, and lead-time-aware reorder plans.
+Stock Guardian AI is a high-precision, full-stack inventory intelligence and demand forecasting platform developed for **PS-08: Inventory Demand Prediction**. It bridges the gap between predictive machine learning and actionable procurement by translating historical sales and inventory trends into verified forecasts, multi-factor stockout risks, lead-time-aware reorder recommendations, and interactive What-If scenario simulations.
 
 ---
 
-## Table of Contents
+## 🌟 Key Highlights
 
-1. [Problem Statement & Impact](#1-problem-statement--impact)
-2. [Solution Overview](#2-solution-overview)
-3. [Architecture & Workflow](#3-architecture--workflow)
-4. [Differentiating Features](#4-differentiating-features)
-   - [What-If Inventory Simulator](#feature-1-what-if-inventory-simulator)
-   - [Statistical Demand Shock Detector](#feature-2-statistical-demand-shock-detector)
-   - [0–100 Multi-Factor Inventory Risk Score](#feature-3-0100-multi-factor-inventory-risk-score)
-   - [Demand Trend Engine](#feature-4-demand-trend-engine)
-   - [Smart Reorder Advisor](#feature-5-smart-reorder-advisor)
-5. [Dataset & Ingestion](#5-dataset--ingestion)
-6. [Data Preprocessing & Validation](#6-data-preprocessing--validation)
-7. [Feature Engineering & Anti-Leakage Guarantee](#7-feature-engineering--anti-leakage-guarantee)
-8. [Train / Test Strategy](#8-train--test-strategy)
-9. [Predictive Models & Evaluation](#9-predictive-models--evaluation)
-10. [Visual Design & UI Standards](#10-visual-design--ui-standards)
-11. [Project Structure](#11-project-structure)
-12. [Installation & Setup](#12-installation--setup)
-13. [Step-by-Step Hackathon Demo](#13-step-by-step-hackathon-demo)
-14. [Legal & Compliance](#14-legal--compliance)
-15. [Limitations & Future Roadmap](#15-limitations--future-roadmap)
+- **Full-Stack Architecture**: React 19 + TypeScript frontend with a high-performance Python FastAPI backend.
+- **Zero-Fabrication Supervised ML**: Real models (`RandomForestRegressor` and `HistGradientBoostingRegressor`) evaluated against a naive 7-day rolling average baseline.
+- **Anti-Leakage Chronological Validation**: 80/20 out-of-time chronological partitioning with strictly backward-lagged features ($t-1$).
+- **Statistical Demand Shock Detection**: Z-Score and percentage deviation anomaly detection against a 30-day baseline.
+- **0–100 Multi-Factor Risk Scoring**: Actionable risk classification (`CRITICAL`, `HIGH RISK`, `WATCH`, `SAFE`) combining coverage deficit, trend acceleration, demand volatility, and lead time exposure.
+- **Scientifically Derived Reorder Plans**: $Z$-score service level safety buffers ($90\%, 95\%, 99\%$) with step-by-step mathematical formulas.
+- **Real-Time What-If Simulator**: Dynamic stress-testing of demand surges, supply shocks, and buffer multipliers.
+- **Universal CSV / Excel Ingestion**: Intelligent column mapping with auto-detection for custom merchant datasets.
 
 ---
 
-## 1. Problem Statement & Impact
-
-Retailers and supply chain operators constantly battle two costly failures:
-1. **Stockouts & Under-stocking:** Running out of high-demand items leads to immediate lost revenue, customer churn, and missed market opportunities.
-2. **Overstocking & Stagnant Inventory:** Tying up working capital in low-demand goods leads to warehousing bloat, depreciation, and forced markdowns.
-
-Traditional ERP systems rely on static threshold minimums that fail to anticipate demand seasonality, promotional surges, supplier lead time variability, and sudden demand shocks.
-
-**Stock Guardian AI** transforms raw transactional sales data into a continuous decision-support engine answering:
-- *What is the expected demand across each SKU for the upcoming horizon?*
-- *Which products face imminent stockout risk?*
-- *How many units should be ordered immediately to guarantee a 95% service level?*
-- *What happens to inventory buffer if demand surges by +20% or +50%?*
-
----
-
-## 2. Solution Overview
-
-Stock Guardian AI delivers an end-to-end analytical pipeline:
-- **Zero-fabrication ML**: Real models (`HistGradientBoostingRegressor` and `RandomForestRegressor`) trained on real historical partitions.
-- **Anti-leakage feature engineering**: All lag and rolling features are shifted strictly backwards ($t-1$) to eliminate future lookahead bias.
-- **Scientifically derived reorder plans**: Incorporates lead times, demand variance, and normal distribution $Z$-scores.
-- **Real-time What-If scenario stress-testing**: Instant parameter manipulation with dynamic recalculation of shortages, stockout days, and adjusted replenishment orders.
-
----
-
-## 3. Architecture & Workflow
+## 🏗️ Architecture & Workflow
 
 ```
-[ Historical Sales & Inventory Data / CSV / Excel Upload ]
-                           ↓
-             [ Data Validation & Preprocessing ]
-          (Date parsing, null handling, deduplication)
-                           ↓
-        [ Chronological Train / Test Split Strategy ]
-         (Zero future leakage, rolling/lag feature safety)
-                           ↓
-              [ Feature Engineering Engine ]
-        (Lags, rolling stats, calendar & business features)
-                           ↓
-        ┌──────────────────┴──────────────────┐
-        ▼                                     ▼
-  [ Baseline Model ]                  [ ML Demand Model ]
-  (7D Moving Average)             (HistGradientBoosting / RF)
-        └──────────────────┬──────────────────┘
-                           ↓
-        [ Model Evaluation & Metric Comparison ]
-                     (MAE, RMSE, R²)
-                           ↓
-        [ Inventory Risk & Demand Shock Engine ]
-      (Demand Gap, Risk Score 0-100, Shock Detection)
-                           ↓
-        [ Smart Reorder Advisor & What-If Simulator ]
-   (Safety Buffer, Reorder Quantity, Real-time Simulation)
-                           ↓
-    [ Streamlit UI - Restrained, Flat, High-Contrast UI ]
+┌────────────────────────────────────────────────────────────────────────┐
+│                        DATA INGESTION LAYER                           │
+│  • Curated Retail Benchmark (12 SKUs, 540 Days)                        │
+│  • Custom CSV / Excel Upload with Intelligent Auto-Column Mapping      │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │
+                                    ▼
+┌────────────────────────────────────────────────────────────────────────┐
+│                   PREPROCESSING & DATA INTEGRITY                       │
+│  • DateTime alignment, zero-sales imputation, continuous daily grid    │
+│  • Strict Chronological Split: 80% Train / 20% Holdout Test            │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │
+                                    ▼
+┌────────────────────────────────────────────────────────────────────────┐
+│                 FEATURE ENGINEERING & ANTI-LEAKAGE                     │
+│  • Backward Lags (t-1, t-7, t-14), Rolling Stats (7D/14D Mean & Std)   │
+│  • Calendar Signals (DayOfWeek, Month, IsWeekend), Business Predictors │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  ▼                                   ▼
+┌───────────────────────────────────┐ ┌───────────────────────────────────┐
+│          BASELINE MODEL           │ │         SUPERVISED ML           │
+│  • 7-Day Moving Average           │ │  • Random Forest Regressor        │
+│  • Naive rolling historical mean  │ │  • HistGradientBoostingRegressor  │
+└─────────────────┬─────────────────┘ └─────────────────┬─────────────────┘
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+┌────────────────────────────────────────────────────────────────────────┐
+│                  MODEL EVALUATION & BENCHMARKING                       │
+│  • Holdout Metrics: MAE, RMSE, R² Score, Zero-Safe MAPE                │
+│  • Head-to-Head Comparison Table & Test Set Alignment Visualizer       │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │
+                                    ▼
+┌────────────────────────────────────────────────────────────────────────┐
+│               INVENTORY RISK & REORDER DECISION ENGINE                 │
+│  • 0-100 Risk Scoring (Coverage + Trend + Volatility + Lead Time)      │
+│  • Statistical Demand Shock Detection (Z-score >= 2.0 or Delta >= 35%) │
+│  • Safety Stock Buffer: SS = Z * σ_daily * sqrt(LeadTime)              │
+│  • Recommended Order Quantity = max(0, Target Stock - Current Stock)  │
+└───────────────────────────────────┬────────────────────────────────────┘
+                                    │
+                                    ▼
+┌────────────────────────────────────────────────────────────────────────┐
+│                     INTERACTIVE USER INTERFACE                         │
+│  • Modern React 19 + TypeScript SPA (Vite, Recharts, Lucide Icons)     │
+│  • High-performance FastAPI REST API with SPA fallback                 │
+└────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 4. Differentiating Features
+## 🧮 Mathematical & Algorithmic Formulations
 
-### Feature 1: What-If Inventory Simulator
-Allows inventory managers to dynamically test demand shocks and supply chain friction:
-- **Interactive Controls**: Demand shift slider ($-50\%$ to $+100\%$), stock override, safety buffer multiplier ($0.5\times$ to $2.0\times$), and forecast horizon.
-- **Instant Outputs**: Adjusted demand, projected stock balance, potential shortage, dynamic risk status, estimated days to stockout, and recalculated reorder units.
-
-### Feature 2: Statistical Demand Shock Detector
-Detects anomalies in recent demand relative to a 30-day baseline using standard deviation $Z$-scores and percentage deviation:
-- `UNUSUAL INCREASE`: $Z \ge 2.0$ or $\Delta \ge +35\%$
-- `NORMAL`: $-30\% \le \Delta < +35\%$
-- `UNUSUAL DECREASE`: $Z \le -2.0$ or $\Delta \le -30\%$
-
-### Feature 3: 0–100 Multi-Factor Inventory Risk Score
-A composite scoring index combining 4 operational risk pillars:
-$$\text{Risk Score} = 0.45 \cdot S_{\text{coverage}} + 0.20 \cdot S_{\text{trend}} + 0.20 \cdot S_{\text{volatility}} + 0.15 \cdot S_{\text{lead\_time}}$$
-- **Categorization**: `CRITICAL` ($\ge 70$), `HIGH RISK` ($45-69$), `WATCH` ($25-44$), `SAFE` ($< 25$).
-
-### Feature 4: Demand Trend Engine
-Extracts normalized linear regression slopes and segment averages across historical windows to classify product trajectories as `INCREASING`, `STABLE`, or `DECREASING`.
-
-### Feature 5: Smart Reorder Advisor
-Provides transparent, auditable procurement recommendations:
+### 1. Safety Buffer & Reorder Point Formulation
 $$\text{Safety Buffer } (SS) = Z_{\alpha} \times \sigma_{\text{daily demand}} \times \sqrt{\text{Lead Time Days}}$$
 $$\text{Recommended Target Inventory} = \text{Forecasted Demand} + SS$$
-$$\text{Recommended Order Quantity } (Q) = \max(0, \text{Target} - \text{Current Stock})$$
+$$\text{Recommended Order Quantity } (Q) = \max(0, \text{Recommended Target Inventory} - \text{Current Stock})$$
+
+*Where $Z_{\alpha} = 1.645$ for $95\%$ Service Level ($1.282$ for $90\%$, $2.326$ for $99\%$).*
+
+### 2. Multi-Factor 0–100 Inventory Risk Score
+$$\text{Risk Score} = 0.45 \cdot S_{\text{coverage}} + 0.20 \cdot S_{\text{trend}} + 0.20 \cdot S_{\text{volatility}} + 0.15 \cdot S_{\text{lead\_time}}$$
+
+- **Coverage Deficit ($S_{\text{coverage}}$)**: Measures severity of potential stockout based on $\frac{\text{Current Stock}}{\text{Predicted Demand}}$.
+- **Trend Acceleration ($S_{\text{trend}}$)**: Evaluates demand surge velocity from linear slope.
+- **Demand Volatility ($S_{\text{volatility}}$)**: Coefficient of variation ($\text{CV} = \frac{\sigma}{\mu}$).
+- **Lead Time Exposure ($S_{\text{lead\_time}}$)**: Supply chain replenishment delay factor.
+
+**Classification**:
+- `CRITICAL` ($\ge 70$): Immediate stockout risk; place purchase order now.
+- `HIGH RISK` ($45 - 69$): Vulnerable stock levels; buffer deficit.
+- `WATCH` ($25 - 44$): Adequate inventory; monitor demand trends.
+- `SAFE` ($< 25$): Healthy buffer; no replenishment required.
+
+### 3. Statistical Demand Shock Detection
+$$Z = \frac{\mu_{\text{recent 7d}} - \mu_{\text{baseline 30d}}}{\sigma_{\text{baseline 30d}} + \epsilon}, \quad \Delta = \frac{\mu_{\text{recent}} - \mu_{\text{baseline}}}{\mu_{\text{baseline}} + \epsilon} \times 100\%$$
+
+- **Unusual Surge**: $Z \ge 2.0$ or $\Delta \ge +35\%$
+- **Normal Range**: $-30\% \le \Delta < +35\%$
+- **Unusual Drop**: $Z \le -2.0$ or $\Delta \le -30\%$
 
 ---
 
-## 5. Dataset & Ingestion
+## 💻 Tech Stack
 
-1. **Curated Multi-Category Benchmark (`data/retail_inventory_history.csv`)**:
-   - 12 distinct retail SKUs across Electronics, Apparel, Home & Kitchen, Health, and Groceries.
-   - 540 days of daily transactions with authentic weekly seasonality, holiday spikes, price changes, promotional events, and realistic demand shocks.
-2. **Custom CSV / Excel Ingestion**:
-   - Automatic column matching using fuzzy keyword aliases (`sales`, `quantity`, `demand`, `stock`, `inventory`, `lead_time`, `date`).
-   - Diagnostic validation report showing row counts, date ranges, null checks, and mapped schema.
-
----
-
-## 6. Data Preprocessing & Validation
-
-- **Date Standardization**: Enforces `datetime64[ns]` sorting and regular daily interval indexing.
-- **Missing Value Handling**: Forward-fills inventory state, back-fills initial lags, and imputes zero sales for non-trading intervals.
-- **Categorical & Numeric Sanity**: Positive value clamping ($\text{Sales} \ge 0$, $\text{Stock} \ge 0$, $\text{Lead Time} \ge 1$).
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | React 19, TypeScript, Vite 6, Recharts, Lucide React, CSS3 Design Tokens |
+| **Backend** | Python 3.10+, FastAPI, Uvicorn, Pydantic |
+| **Machine Learning** | Scikit-Learn (`RandomForestRegressor`, `HistGradientBoostingRegressor`, `LinearRegression`), NumPy, Pandas |
+| **Testing** | Pytest, End-to-End Scenario Runners |
 
 ---
 
-## 7. Feature Engineering & Anti-Leakage Guarantee
-
-All features are strictly computed with a `shift(1)` backward lag:
-- **Temporal Features**: `DayOfWeek`, `Month`, `Quarter`, `DayOfMonth`, `IsWeekend`.
-- **Lag Features**: `Lag_1`, `Lag_7`, `Lag_14` (prior observed demand only).
-- **Rolling Statistics**: `Rolling_Mean_7`, `Rolling_Mean_14`, `Rolling_Std_7` (historical moving velocity and volatility).
-- **Business Predictors**: `Promotion_Active`, `Unit_Price`.
-
----
-
-## 8. Train / Test Strategy
-
-- **Strict Chronological Splitting**: 80% historical training window, 20% holdout test window.
-- **Zero Lookahead**: Transformers and models are fitted exclusively on training timestamps, guaranteeing true out-of-time evaluation integrity.
-
----
-
-## 9. Predictive Models & Evaluation
-
-| Model | Technique | Strengths |
-| :--- | :--- | :--- |
-| **Model 1 (Baseline)** | 7-Day Moving Average / Naive | Fast, interpretable reference benchmark |
-| **Model 2 (Production ML)** | `HistGradientBoostingRegressor` | Non-linear tree boosting, handles promotions & interactions |
-
-### True Holdout Evaluation Metrics
-- **MAE** (Mean Absolute Error)
-- **RMSE** (Root Mean Squared Error)
-- **$R^2$** (Coefficient of Determination)
-- **Safe MAPE** (Zero-safe mean percentage error)
-
----
-
-## 10. Visual Design & UI Standards
-
-- **Warm Neutral Background**: `#F8F9FA` warm off-white.
-- **Typography**: System font stack (`system-ui, -apple-system, Segoe UI, Roboto, sans-serif`).
-- **Color Discipline**:
-  - Restrained Navy Accent (`#1E3A8A`)
-  - Status Indicators: Safe (`#15803D`), Watch (`#D97706`), High Risk (`#EA580C`), Critical (`#DC2626`).
-- **Forbidden UI Exclusions**: **Zero gradients**, zero neon, zero purple-black dark mode, zero emoji UI, zero liquid glass, zero floating card clutter.
-
----
-
-## 11. Project Structure
+## 📁 Project Structure
 
 ```
-stock-guardian-ai/
-├── app.py                         # Main Streamlit dashboard application
-├── requirements.txt               # Dependencies
-├── README.md                      # Documentation
+STOCK GUARDIAN AI/
 ├── data/
-│   ├── dataset_generator.py       # Benchmark dataset generator
-│   └── retail_inventory_history.csv # Benchmark dataset
-├── preprocessing/
-│   ├── data_loader.py             # Schema auto-detection & file parser
-│   └── preprocessor.py            # Time series alignment & gap filler
+│   ├── dataset_generator.py         # 12-SKU realistic benchmark generator
+│   └── retail_inventory_history.csv # Curated 540-day retail dataset
 ├── forecasting/
-│   ├── feature_engineering.py     # Anti-leakage lag & rolling features
-│   └── time_splitter.py           # Chronological time splitter
-├── models/
-│   ├── baseline.py                # Moving average baseline model
-│   ├── demand_model.py            # HistGradientBoosting / ML forecaster
-│   └── evaluation.py              # MAE, RMSE, R2, Safe MAPE metrics
+│   ├── feature_engineering.py       # Anti-leakage backward lag & rolling transforms
+│   └── time_splitter.py             # Strict 80/20 chronological time splitter
+├── frontend/
+│   ├── dist/                        # Compiled production SPA assets
+│   ├── src/
+│   │   ├── api/client.ts            # Axios REST API client
+│   │   ├── components/              # Reusable UI components (Header, MetricCard, Modals)
+│   │   ├── pages/                   # Application Views (Overview, Forecast, Risk, Reorder, etc.)
+│   │   ├── types/                   # TypeScript schemas & interfaces
+│   │   ├── App.tsx                  # Core app router & layout
+│   │   └── main.tsx                 # Entrypoint with ErrorBoundary
+│   ├── package.json                 # Frontend dependencies & build scripts
+│   └── vite.config.ts               # Vite configuration with API proxy
 ├── inventory/
-│   ├── risk_engine.py             # 0-100 Risk score, shock detector, trends
-│   └── reorder_advisor.py         # Lead-time safety stock & reorder plans
+│   ├── reorder_advisor.py           # Safety stock & reorder calculation engine
+│   └── risk_engine.py               # 0-100 Risk score, shock detection, trend analysis
+├── models/
+│   ├── baseline.py                  # 7-day moving average baseline model
+│   ├── demand_model.py              # Supervised ML regression & recursive forecaster
+│   └── evaluation.py                # MAE, RMSE, R², Safe MAPE evaluator
+├── preprocessing/
+│   ├── data_loader.py               # Smart CSV/Excel reader & fuzzy column matcher
+│   └── preprocessor.py              # Time series regularizer & metadata builder
 ├── simulator/
-│   └── what_if.py                 # Real-time What-If scenario engine
-├── visualization/
-│   ├── charts.py                  # Flat, high-contrast Plotly chart engines
-│   └── styles.py                  # Custom CSS design system
-└── tests/
-    ├── test_pipeline.py           # Unit tests
-    └── test_e2e_scenarios.py      # E2E scenario test runner
+│   └── what_if.py                   # Real-time What-If scenario simulation engine
+├── tests/
+│   ├── test_pipeline.py             # Unit tests for ML & inventory engines
+│   └── test_e2e_scenarios.py        # End-to-end integration test scenarios
+├── sample_test_inventory.csv        # 1,300-row sample CSV for custom test uploads
+├── server.py                        # FastAPI unified backend & SPA host
+├── requirements.txt                 # Python dependencies
+└── README.md                        # Documentation
 ```
 
 ---
 
-## 12. Installation & Setup
+## 🚀 Installation & Running
 
-### Prerequisites
-- Python 3.10+ (Tested on Python 3.13.5)
+### 1. Prerequisites
+- Python 3.10 or higher
+- Node.js 18+ (for frontend development)
 
-### Quick Start
-```bash
-# 1. Clone or navigate to the project directory
-cd "STOCK GUARDIAN AI"
+### 2. Backend Setup
+```powershell
+# Navigate to the project directory
+cd "d:\STOCK GUARDIAN AI"
 
-# 2. Install dependencies
+# Install Python dependencies
 pip install -r requirements.txt
-
-# 3. Generate benchmark dataset (if not already present)
-python data/dataset_generator.py
-
-# 4. Run automated test suite
-python -m pytest -v
-
-# 5. Launch the Streamlit application
-streamlit run app.py
 ```
-Open your browser at `http://localhost:8501`.
+
+### 3. Frontend Setup (Optional for Development)
+```powershell
+cd frontend
+npm install
+npm run build
+cd ..
+```
+
+### 4. Run the Application
+Start the unified application (FastAPI serves both the API and the React SPA on a single port):
+
+```powershell
+python -m uvicorn server:app --host 127.0.0.1 --port 8000
+```
+
+Open your browser at:
+👉 **[http://127.0.0.1:8000/](http://127.0.0.1:8000/)**
+
+*(For live hot-reloading frontend development, run `npm run dev` in `frontend/` and access `http://127.0.0.1:5173/`).*
 
 ---
 
-## 13. Step-by-Step Hackathon Demo
+## 📡 REST API Reference
 
-1. **Open Dashboard**: View KPI cards, portfolio stockout risks, and statistical demand shock alerts.
-2. **Inspect Priority Table**: Review the **Products Requiring Attention** table sorted by Risk Score.
-3. **Demand Forecast Drilldown**: Click Tab 2, select a product (e.g. *Performance Running Shoes Pro*), and inspect the 14-day ML forecast timeline and top feature drivers.
-4. **Audit Reorder Recommendation**: Click Tab 3, review the safety buffer calculation, and expand the **"How is this calculated?"** transparent mathematical derivation.
-5. **Interactive What-If Simulation**: Click Tab 4, select a product, click the **"+20% Demand Surge"** button, and watch the system dynamically recalculate the potential shortage, stockout timeline, and adjusted reorder units.
-6. **Model Verification**: Click Tab 5 to verify the chronological 80/20 train/test methodology and inspect true holdout MAE and RMSE improvements.
+| Endpoint | Method | Description |
+| :--- | :--- | :--- |
+| `/api/v1/health` | `GET` | Service status, product count, and active configuration |
+| `/api/v1/dashboard/summary` | `GET` | Portfolio KPIs, critical stockout alerts, demand shock list |
+| `/api/v1/products` | `GET` | List all SKUs with current stock, risk level, and demand stats |
+| `/api/v1/products/{id}/forecast` | `GET` | 14-day daily forecast breakdown, history, and feature importances |
+| `/api/v1/products/{id}/risk` | `GET` | Multi-factor risk breakdown, component scores, and reorder plan |
+| `/api/v1/models/performance` | `GET` | Holdout evaluation metrics (MAE, RMSE, R²) vs. Baseline model |
+| `/api/v1/simulator/what-if` | `POST` | Dynamic scenario simulation (demand shifts, inventory overrides) |
+| `/api/v1/models/train` | `POST` | Trigger model retraining across custom horizon & model architecture |
+| `/api/v1/data/upload` | `POST` | Upload custom CSV/Excel with automatic validation and schema detection |
+| `/api/v1/data/map-columns` | `POST` | Apply manual column mappings for non-standard merchant datasets |
+| `/api/v1/data/load-benchmark` | `POST` | Reset back to the 12-SKU benchmark dataset |
 
 ---
 
-## 14. Legal & Compliance
+## 🧪 Testing with the Sample Dataset
 
-- **Draft Notice**: Terms of Service and Privacy Policy are provided in Tab 7 and marked **`[ DRAFT FOR REVIEW ]`**.
-- **Data Privacy**: All data processing, model training, and simulation calculations execute entirely in-memory on the local instance. No data is transmitted externally.
+A sample test file [sample_test_inventory.csv](file:///d:/STOCK%20GUARDIAN%20AI/sample_test_inventory.csv) (1,300 rows across 5 products) is included to test all system capabilities:
+
+1. Click **Data Studio** in the navigation bar.
+2. Drag and drop [sample_test_inventory.csv](file:///d:/STOCK%20GUARDIAN%20AI/sample_test_inventory.csv) into the upload box.
+3. The platform validates columns, parses dates, computes time-series splits, trains ML models, and updates all dashboards in real-time.
+4. Test scenarios represented in the sample file:
+   - **Critical Stockout Risk**: `SKU-COF-01` (Coffee Beans)
+   - **Statistical Demand Shock**: `SKU-SNK-02` (Running Shoes)
+   - **Safe Stock Level**: `SKU-KEY-03` (Mechanical Keyboard)
+   - **Watchlist Trajectory**: `SKU-OIL-05` (Olive Oil)
 
 ---
 
-## 15. Limitations & Future Roadmap
+## 🛡️ Validation & Automated Tests
 
-- **Multi-Echelon Warehousing**: Future releases will support multi-location warehouse routing and cross-depot balancing.
-- **Supplier Volatility Modeling**: Incorporating stochastic supplier lead-time distributions alongside demand variance.
-- **Automated Purchase Order Export**: Direct webhook integration into SAP, NetSuite, and Shopify inventory APIs.
+Run the complete test suite:
+```powershell
+python -m pytest tests/ -v
+```
+
+---
+
+## 📄 License & Compliance
+
+- **Draft Notice**: Terms of Service and Privacy Policy are embedded within the application and marked `[ DRAFT FOR REVIEW ]`.
+- **Data Privacy**: All data ingestion, model fitting, and risk calculations run locally in-memory. Zero merchant data is sent to external cloud APIs.
