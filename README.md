@@ -13,7 +13,7 @@ Stock Guardian AI is a high-precision, full-stack inventory intelligence and dem
 - **Anti-Leakage Chronological Validation**: 80/20 out-of-time chronological partitioning with strictly backward-lagged features ($t-1$).
 - **Statistical Demand Shock Detection**: Z-Score and percentage deviation anomaly detection against a 30-day baseline.
 - **0–100 Multi-Factor Risk Scoring**: Actionable risk classification (`CRITICAL`, `HIGH RISK`, `WATCH`, `SAFE`) combining coverage deficit, trend acceleration, demand volatility, and lead time exposure.
-- **Scientifically Derived Reorder Plans**: $Z$-score service level safety buffers ($90\%, 95\%, 99\%$) with step-by-step mathematical formulas.
+- **Scientifically Derived Reorder Plans**: $Z$-score service level safety buffers ($90\%, 95\%, 99\%$) with step-by-step mathematical formulas and 1-click Purchase Order generation.
 - **Real-Time What-If Simulator**: Dynamic stress-testing of demand surges, supply shocks, and buffer multipliers.
 - **Universal CSV / Excel Ingestion**: Intelligent column mapping with auto-detection for custom merchant datasets.
 
@@ -109,6 +109,18 @@ $$Z = \frac{\mu_{\text{recent 7d}} - \mu_{\text{baseline 30d}}}{\sigma_{\text{ba
 
 ---
 
+## 🖥️ Application Views & Capabilities
+
+1. **Overview Dashboard**: Portfolio-wide KPIs (Critical Stockouts, High-Risk SKUs, Reorder Capital), active demand shock alert banners, and a real-time risk-ranked priority table.
+2. **Data Studio**: Drag-and-drop CSV / Excel upload with automatic alias matching, interactive column mapping modal, missing value diagnostics, and 100-row preview.
+3. **Demand Forecast**: 14-day daily forecast timelines, historical sales trend line, recursive ML predictions, and top feature importance drivers.
+4. **Inventory Risk**: 0–100 multi-factor risk scoring breakdown, component radar scores, demand volatility CV, and statistical shock diagnostics.
+5. **Reorder Advisor**: Transparent safety stock derivation with step-by-step mathematical formulas, capital requirements, and 1-click **Export Purchase Order (PO)** clipboard generator.
+6. **What-If Simulator**: Interactive sliders for demand surge ($-50\%$ to $+100\%$), current stock overrides, and safety multipliers ($0.5\times$ to $2.0\times$) with real-time shortage and stockout days recalculation.
+7. **Model Performance**: Side-by-side empirical benchmark comparison of Baseline (7-Day Moving Average) vs. Supervised ML regression on unseen 20% chronological holdout test data with zero forward-looking leakage.
+
+---
+
 ## 💻 Tech Stack
 
 | Layer | Technologies |
@@ -172,7 +184,7 @@ STOCK GUARDIAN AI/
 
 ### 2. Backend Setup
 ```powershell
-# Navigate to the project directory
+# Navigate to project root
 cd "d:\STOCK GUARDIAN AI"
 
 # Install Python dependencies
@@ -231,6 +243,17 @@ A sample test file [sample_test_inventory.csv](file:///d:/STOCK%20GUARDIAN%20AI/
    - **Statistical Demand Shock**: `SKU-SNK-02` (Running Shoes)
    - **Safe Stock Level**: `SKU-KEY-03` (Mechanical Keyboard)
    - **Watchlist Trajectory**: `SKU-OIL-05` (Olive Oil)
+
+---
+
+## ⏱️ 5-Minute Hackathon Demo Walkthrough
+
+1. **Dashboard Overview**: Open [http://127.0.0.1:8000/](http://127.0.0.1:8000/) to review portfolio KPIs, critical stockout alerts, and the prioritized product attention table.
+2. **Demand Forecasting**: Navigate to **Demand Forecast**, select a product (e.g. *Artisanal Coffee Beans*), and examine the 14-day forecast timeline alongside top feature importances.
+3. **Risk & Anomaly Inspection**: Navigate to **Inventory Risk** to inspect the 0–100 composite risk score, trend slope, and demand shock $Z$-score.
+4. **Smart Reorder Planning**: Navigate to **Reorder Advisor** to review the lead-time-aware safety buffer, recommended order quantity, and copy a formatted Purchase Order (PO) draft.
+5. **Interactive Scenario Simulation**: Navigate to **What-If Simulator**, click the **"+20% Demand Surge"** button, and watch the system dynamically recalculate the potential shortage and adjusted reorder capital.
+6. **Empirical Model Verification**: Navigate to **Model Performance** to verify the chronological 80/20 train/test split and compare the Supervised ML model's MAE/RMSE/R² against the 7-day moving average baseline on unseen holdout test data.
 
 ---
 
